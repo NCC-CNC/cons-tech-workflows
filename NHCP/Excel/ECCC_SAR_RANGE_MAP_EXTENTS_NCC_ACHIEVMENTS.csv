@@ -1,284 +1,284 @@
 COSEWICID,SCI_NAME,COM_NAME_E,TAXON_E,SAR_STAT_E,SCHEDULE_E,RANGE_HA,NCC_FS_HA,PCT_NCC
-2,Carex lupuliformis,False Hop Sedge,Vascular Plants,Endangered,Schedule 1,165714.48,8.4,0.005068959574323257
+2,Carex lupuliformis,False Hop Sedge,Vascular Plants,Endangered,Schedule 1,165714.48,8.4,0.01
 4,Astragalus robbinsii var. fernaldii,Fernald's Milk–vetch,Vascular Plants,Special Concern,Schedule 1,15697.47,0.0,0.0
 5,Braya fernaldii,Fernald's Braya,Vascular Plants,Endangered,Schedule 1,68241.4,0.0,0.0
 6,Braya longii,Long's Braya,Vascular Plants,Endangered,Schedule 1,17871.3,0.0,0.0
 12,Lotus formosissimus,Seaside Birds–foot Lotus,Vascular Plants,Endangered,Schedule 1,4176.5,0.0,0.0
-19,Empidonax virescens,Acadian Flycatcher,Birds,Endangered,Schedule 1,2497140.51,3463.040000000001,0.13868022188306903
-20,Athene cunicularia,Burrowing Owl,Birds,Endangered,Schedule 1,19383779.91,20286.099999999995,0.10465502649219874
+19,Empidonax virescens,Acadian Flycatcher,Birds,Endangered,Schedule 1,2497140.51,3463.040000000001,0.14
+20,Athene cunicularia,Burrowing Owl,Birds,Endangered,Schedule 1,19383779.91,20286.099999999995,0.1
 21,Numenius borealis,Eskimo Curlew,Birds,Endangered,Schedule 1,21982073.36,0.0,0.0
-22,Histrionicus histrionicus,Harlequin Duck (Eastern population),Birds,Special Concern,Schedule 1,45464376.22,1108.5,0.0024381726797174565
-23,Ammodramus henslowii,Henslow's Sparrow,Birds,Endangered,Schedule 1,1869356.03,6936.390000000001,0.37105772729660286
-24,Rallus elegans,King Rail,Birds,Endangered,Schedule 1,741919.02,2982.3200000000006,0.40197378953837853
-25,Setophaga kirtlandii,Kirtland's Warbler,Birds,Endangered,Schedule 1,370566.18,1983.91,0.5353726559720049
-26,Lanius ludovicianus migrans,Loggerhead Shrike migrans subspecies,Birds,Endangered,Schedule 1,2419979.68,6749.009999999998,0.27888705247310164
+22,Histrionicus histrionicus,Harlequin Duck (Eastern population),Birds,Special Concern,Schedule 1,45464376.22,1108.5,0.0
+23,Ammodramus henslowii,Henslow's Sparrow,Birds,Endangered,Schedule 1,1869356.03,6936.390000000001,0.37
+24,Rallus elegans,King Rail,Birds,Endangered,Schedule 1,741919.02,2982.3200000000006,0.4
+25,Setophaga kirtlandii,Kirtland's Warbler,Birds,Endangered,Schedule 1,370566.18,1983.91,0.54
+26,Lanius ludovicianus migrans,Loggerhead Shrike migrans subspecies,Birds,Endangered,Schedule 1,2419979.68,6749.009999999998,0.28
 27,Charadrius montanus,Mountain Plover,Birds,Endangered,Schedule 1,221594.3,0.0,0.0
-28,Colinus virginianus,Northern Bobwhite,Birds,Endangered,Schedule 1,2102278.86,3624.249999999999,0.17239625384426874
-31,Protonotaria citrea,Prothonotary Warbler,Birds,Endangered,Schedule 1,305938.0,2561.250000000001,0.8371794285116595
-32,Oreoscoptes montanus,Sage Thrasher,Birds,Endangered,Schedule 1,1549159.25,3034.1300000000006,0.1958565589690021
-33,Strix occidentalis caurina,Spotted Owl caurina subspecies,Birds,Endangered,Schedule 1,1622288.56,111.02000000000001,0.006843418781181568
+28,Colinus virginianus,Northern Bobwhite,Birds,Endangered,Schedule 1,2102278.86,3624.249999999999,0.17
+31,Protonotaria citrea,Prothonotary Warbler,Birds,Endangered,Schedule 1,305938.0,2561.250000000001,0.84
+32,Oreoscoptes montanus,Sage Thrasher,Birds,Endangered,Schedule 1,1549159.25,3034.1300000000006,0.2
+33,Strix occidentalis caurina,Spotted Owl caurina subspecies,Birds,Endangered,Schedule 1,1622288.56,111.02000000000001,0.01
 34,Grus americana,Whooping Crane,Birds,Endangered,Schedule 1,787680.05,0.0,0.0
-35,Tympanuchus cupido,Greater Prairie–Chicken,Birds,Extirpated,Schedule 1,62362834.4,42358.930000000015,0.06792335596600146
-36,Ammodramus bairdii,Baird’s Sparrow,Birds,No Status,No schedule,40310022.48,22247.449999999986,0.05519086478068366
-37,Setophaga citrina,Hooded Warbler,Birds,Not at Risk,Schedule 1,2952451.16,3862.669999999999,0.13082925984794272
-38,Lanius ludovicianus excubitorides,Loggerhead Shrike Prairie subspecies,Birds,Threatened,Schedule 1,44534128.56,25239.10999999999,0.05667363618891926
-39,Brachyramphus marmoratus,Marbled Murrelet,Birds,Threatened,Schedule 1,14268265.2,1224.9399999999996,0.008585066108807675
-40,Sterna dougallii,Roseate Tern,Birds,Endangered,Schedule 1,165073.94,19.47,0.011794714538224506
-41,Picoides albolarvatus,White–headed Woodpecker,Birds,Endangered,Schedule 1,429039.72,1574.2100000000003,0.3669147462617215
-42,Icteria virens auricollis,Yellow-breasted Chat auricollis subspecies (Southern Mountain population),Birds,Endangered,Schedule 1,596708.42,1574.2100000000003,0.2638156170144206
-43,Synthliboramphus antiquus,Ancient Murrelet,Birds,Special Concern,Schedule 1,15733858.56,322.68999999999977,0.0020509272965016393
-44,Tyto alba,Barn Owl (Western population),Birds,Threatened,Schedule 1,888912.66,1980.2799999999997,0.22277554242505665
-46,Setophaga cerulea,Cerulean Warbler,Birds,Endangered,Schedule 1,4987598.84,13834.789999999986,0.27738377611780796
-47,Buteo regalis,Ferruginous Hawk,Birds,Threatened,Schedule 1,20592516.01,15328.890000000001,0.07443913115112348
-48,Otus flammeolus,Flammulated Owl,Birds,Special Concern,Schedule 1,3583599.13,11146.529999999999,0.31104288162945276
+35,Tympanuchus cupido,Greater Prairie–Chicken,Birds,Extirpated,Schedule 1,62362834.4,42358.929999999935,0.07
+36,Ammodramus bairdii,Baird’s Sparrow,Birds,No Status,No schedule,40310022.48,22247.449999999986,0.06
+37,Setophaga citrina,Hooded Warbler,Birds,Not at Risk,Schedule 1,2952451.16,3862.669999999999,0.13
+38,Lanius ludovicianus excubitorides,Loggerhead Shrike Prairie subspecies,Birds,Threatened,Schedule 1,44534128.56,25239.10999999999,0.06
+39,Brachyramphus marmoratus,Marbled Murrelet,Birds,Threatened,Schedule 1,14268265.2,1224.9399999999996,0.01
+40,Sterna dougallii,Roseate Tern,Birds,Endangered,Schedule 1,165073.94,19.47,0.01
+41,Picoides albolarvatus,White–headed Woodpecker,Birds,Endangered,Schedule 1,429039.72,1574.2100000000003,0.37
+42,Icteria virens auricollis,Yellow-breasted Chat auricollis subspecies (Southern Mountain population),Birds,Endangered,Schedule 1,596708.42,1574.2100000000003,0.26
+43,Synthliboramphus antiquus,Ancient Murrelet,Birds,Special Concern,Schedule 1,15733858.56,322.68999999999977,0.0
+44,Tyto alba,Barn Owl (Western population),Birds,Threatened,Schedule 1,888912.66,1980.2799999999997,0.22
+46,Setophaga cerulea,Cerulean Warbler,Birds,Endangered,Schedule 1,4987598.84,13834.789999999986,0.28
+47,Buteo regalis,Ferruginous Hawk,Birds,Threatened,Schedule 1,20592516.01,15328.890000000012,0.07
+48,Otus flammeolus,Flammulated Owl,Birds,Special Concern,Schedule 1,3583599.13,11146.529999999999,0.31
 49,Passerculus sandwichensis princeps,Savannah Sparrow princeps subspecies,Birds,Special Concern,Schedule 1,3177.64,0.0,0.0
 50,Pagophila eburnea,Ivory Gull,Birds,Endangered,Schedule 1,77586612.08,0.0,0.0
-51,Ixobrychus exilis,Least Bittern,Birds,Threatened,Schedule 1,25138789.46,74289.79999999997,0.2955186052940513
-52,Numenius americanus,Long–billed Curlew,Birds,Special Concern,Schedule 1,28683395.53,14858.330000000002,0.051801154380274314
-53,Parkesia motacilla,Louisiana Waterthrush,Birds,Special Concern,Schedule 1,2672342.95,8397.310000000005,0.31423025252054587
-54,Falco peregrinus pealei,Peregrine Falcon pealei subspecies,Birds,Special Concern,Schedule 1,1492940.9,50.22,0.0033638304101655998
-56,Accipiter gentilis laingi,Northern Goshawk laingi subspecies,Birds,Threatened,Schedule 1,4323633.71,559.62,0.01294327960080596
-57,Melanerpes erythrocephalus,Red–headed Woodpecker,Birds,Threatened,Schedule 1,31816954.42,69888.56999999999,0.21965826482772446
+51,Ixobrychus exilis,Least Bittern,Birds,Threatened,Schedule 1,25138789.46,74289.79999999997,0.3
+52,Numenius americanus,Long–billed Curlew,Birds,Special Concern,Schedule 1,28683395.53,14858.330000000002,0.05
+53,Parkesia motacilla,Louisiana Waterthrush,Birds,Special Concern,Schedule 1,2672342.95,8397.310000000005,0.31
+54,Falco peregrinus pealei,Peregrine Falcon pealei subspecies,Birds,Special Concern,Schedule 1,1492940.9,50.22,0.0
+56,Accipiter gentilis laingi,Northern Goshawk laingi subspecies,Birds,Threatened,Schedule 1,4323633.71,559.62,0.01
+57,Melanerpes erythrocephalus,Red–headed Woodpecker,Birds,Threatened,Schedule 1,31816954.42,69888.56999999999,0.22
 59,Rhodostethia rosea,Ross's Gull,Birds,Threatened,Schedule 1,22162517.86,0.0,0.0
-60,Asio flammeus,Short–eared Owl,Birds,Special Concern,Schedule 1,793550468.76,403631.60999999946,0.05086401254739515
-61,Icteria virens virens,Yellow-breasted Chat virens subspecies,Birds,Endangered,Schedule 1,4371726.97,5862.070000000006,0.1340904873572195
+60,Asio flammeus,Short–eared Owl,Birds,Special Concern,Schedule 1,793550468.76,403631.60999999946,0.05
+61,Icteria virens virens,Yellow-breasted Chat virens subspecies,Birds,Endangered,Schedule 1,4371726.97,5862.070000000006,0.13
 124,Heterodermia sitchensis,Seaside Centipede Lichen,Lichens,Endangered,Schedule 1,27929.26,0.0,0.0
 125,Nephroma occultum,Cryptic Paw Lichen,Lichens,Special Concern,Schedule 1,1643439.49,0.0,0.0
 126,Pseudocyphellaria rainierensis,Oldgrowth Specklebelly Lichen,Lichens,Special Concern,Schedule 1,376136.53,0.0,0.0
 127,Hypogymnia heterophylla,Seaside Bone Lichen,Lichens,Threatened,Schedule 1,5848.66,0.0,0.0
-134,Martes americana atrata,American Marten (Newfoundland population),Mammals,Threatened,Schedule 1,1761613.29,2554.88,0.14503069513059816
+134,Martes americana atrata,American Marten (Newfoundland population),Mammals,Threatened,Schedule 1,1761613.29,2554.88,0.15
 136,Marmota vancouverensis,Vancouver Island Marmot,Mammals,Endangered,Schedule 1,185642.84,0.0,0.0
-137,Gulo gulo,Wolverine (Eastern population),Mammals ,Endangered,Schedule 1,131041061.18,85.77999999999999,6.546039785359436e-05
-138,Mustela nigripes,Black–footed Ferret,Mammals,Extirpated,Schedule 1,6747754.81,4983.449999999999,0.07385345407949107
-139,Ursus Arctos (pairie population),Grizzly Bear (Prairie population),Mammals ,Extirpated,Schedule 1,109359093.2,64781.25000000006,0.059237186505858894
-140,Vulpes velox,Swift Fox,Mammals,Threatened,Schedule 1,6481461.62,5419.769999999999,0.08361956481044469
-141,Sorex bendirii,Pacific Water Shrew,Mammals,Endangered,Schedule 1,567607.44,7.67,0.0013512860226074558
+137,Gulo gulo,Wolverine (Eastern population),Mammals ,Endangered,Schedule 1,131041061.18,85.77999999999999,0.0
+138,Mustela nigripes,Black–footed Ferret,Mammals,Extirpated,Schedule 1,6747754.81,4983.449999999999,0.07
+139,Ursus Arctos (pairie population),Grizzly Bear (Prairie population),Mammals ,Extirpated,Schedule 1,109359093.2,64781.25000000006,0.06
+140,Vulpes velox,Swift Fox,Mammals,Threatened,Schedule 1,6481461.62,5419.769999999999,0.08
+141,Sorex bendirii,Pacific Water Shrew,Mammals,Endangered,Schedule 1,567607.44,7.67,0.0
 142,Scapanus townsendii,Townsend's Mole,Mammals,Endangered,Schedule 1,342251.71,0.0,0.0
 143,Bison bison athabascae,Wood Bison,Mammals,Special Concern,Schedule 1,5897170.39,0.0,0.0
 144,Rangifer tarandus,Woodland Caribou (Atlantic-Gaspesie population),Mammals,Endangered,Schedule 1,137409.0,0.0,0.0
-151,Cynomys ludovicianus,Black–tailed Prairie Dog,Mammals,Threatened,Schedule 1,152829.38,316.73,0.207244183022924
-153,Scalopus aquaticus,Eastern Mole,Mammals,Special Concern,Schedule 1,30709.59,110.06,0.3583896756680893
-154,Mustela erminea haidarum,Ermine haidarum subspecies,Mammals,Threatened,Schedule 1,944051.04,50.22,0.005319627633692347
-157,Urocyon cinereoargenteus,Gray Fox,Mammals,Threatened,Schedule 1,11522482.79,45932.53999999996,0.3986340516808007
-163,Sylvilagus nuttallii nuttallii,Nuttall's Cottontail nuttallii subspecies,Mammals,Special Concern,Schedule 1,162119.11,1481.66,0.9139329718748149
-164,Dipodomys ordii,Ord's Kangaroo Rat,Mammals,Endangered,Schedule 1,7978396.07,5404.3,0.0677366722908255
-165,Antrozous pallidus,Pallid Bat,Mammals,Threatened,Schedule 1,32252.85,23.67,0.07338886330975404
+151,Cynomys ludovicianus,Black–tailed Prairie Dog,Mammals,Threatened,Schedule 1,152829.38,316.73,0.21
+153,Scalopus aquaticus,Eastern Mole,Mammals,Special Concern,Schedule 1,30709.59,110.06,0.36
+154,Mustela erminea haidarum,Ermine haidarum subspecies,Mammals,Threatened,Schedule 1,944051.04,50.22,0.01
+157,Urocyon cinereoargenteus,Gray Fox,Mammals,Threatened,Schedule 1,11522482.79,45932.53999999996,0.4
+163,Sylvilagus nuttallii nuttallii,Nuttall's Cottontail nuttallii subspecies,Mammals,Special Concern,Schedule 1,162119.11,1481.66,0.91
+164,Dipodomys ordii,Ord's Kangaroo Rat,Mammals,Endangered,Schedule 1,7978396.07,5404.3,0.07
+165,Antrozous pallidus,Pallid Bat,Mammals,Threatened,Schedule 1,32252.85,23.67,0.07
 167,Ursus maritimus,Polar Bear,Mammals,Special Concern,Schedule 1,204744353.68,0.0,0.0
-170,Euderma maculatum,Spotted Bat,Mammals,Special Concern,Schedule 1,6826409.74,9788.269999999999,0.1433882578516302
-171,Reithrodontomys megalotis megalotis,Western Harvest Mouse megalotis subspecies,Mammals,Special Concern,Schedule 1,634819.84,1506.17,0.23725944041068409
-176,Magnolia acuminata,Cucumber Tree,Vascular Plants,Endangered,Schedule 1,105376.72,2293.1699999999996,2.17616376748109
-177,Balsamorhiza deltoidea,Deltoid Balsamroot,Vascular Plants,Endangered,Schedule 1,6869.64,0.84,0.01222771498943176
+170,Euderma maculatum,Spotted Bat,Mammals,Special Concern,Schedule 1,6826409.74,9788.269999999999,0.14
+171,Reithrodontomys megalotis megalotis,Western Harvest Mouse megalotis subspecies,Mammals,Special Concern,Schedule 1,634819.84,1506.17,0.24
+176,Magnolia acuminata,Cucumber Tree,Vascular Plants,Endangered,Schedule 1,105376.72,2293.1699999999996,2.18
+177,Balsamorhiza deltoidea,Deltoid Balsamroot,Vascular Plants,Endangered,Schedule 1,6869.64,0.84,0.01
 178,Isoetes engelmannii,Engelmann's Quillwort,Vascular Plants,Endangered,Schedule 1,22222.87,0.0,0.0
 179,Pedicularis furbishiae,Furbish's Lousewort,Vascular Plants,Endangered,Schedule 1,3639.26,0.0,0.0
 180,Agalinis gattingeri,Gattinger's Agalinis,Vascular Plants,Endangered,Schedule 1,74371.91,0.0,0.0
-181,Plantago cordata,Heart–leaved Plantain,Vascular Plants,Endangered,Schedule 1,15697.79,142.32,0.9066244356689698
+181,Plantago cordata,Heart–leaved Plantain,Vascular Plants,Endangered,Schedule 1,15697.79,142.32,0.91
 182,Pycnanthemum incanum,Hoary Mountain–mint,Vascular Plants,Endangered,Schedule 1,12366.57,0.0,0.0
 183,Isotria verticillata,Large Whorled Pogonia,Vascular Plants,Endangered,Schedule 1,1255.81,0.0,0.0
-184,Geum peckii,Eastern Mountain Avens,Vascular Plants,Endangered,Schedule 1,28078.39,446.58,1.590475807195498
-185,Coreopsis rosea,Pink Coreopsis,Vascular Plants,Endangered,Schedule 1,16577.19,879.26,5.304035243608839
+184,Geum peckii,Eastern Mountain Avens,Vascular Plants,Endangered,Schedule 1,28078.39,446.58,1.59
+185,Coreopsis rosea,Pink Coreopsis,Vascular Plants,Endangered,Schedule 1,16577.19,879.26,5.3
 186,Polygala incarnata,Pink Milkwort,Vascular Plants,Endangered,Schedule 1,11246.95,0.0,0.0
 187,Lupinus lepidus,Prairie Lupine,Vascular Plants,Endangered,Schedule 1,5023.24,0.0,0.0
 188,Opuntia humifusa,Eastern Prickly Pear Cactus,Vascular Plants,Endangered,Schedule 1,2738.4,0.0,0.0
 190,Agalinis skinneriana,Skinner's Agalinis,Vascular Plants,Endangered,Schedule 1,22234.22,0.0,0.0
 191,Lespedeza virginica,Slender Bush–clover,Vascular Plants,Endangered,Schedule 1,8970.28,0.0,0.0
 192,Halimolobos virgata,Slender Mouse–ear–cress,Vascular Plants,Threatened,Schedule 1,232613.51,0.0,0.0
-193,Cypripedium candidum,Small White Lady's–slipper,Vascular Plants,Threatened,Schedule 1,106977.07,1738.61,1.6252174414573142
+193,Cypripedium candidum,Small White Lady's–slipper,Vascular Plants,Threatened,Schedule 1,106977.07,1738.61,1.63
 194,Isotria medeoloides,Small Whorled Pogonia,Vascular Plants,Endangered,Schedule 1,1255.81,0.0,0.0
 195,Adiantum capillus-veneris,Southern Maidenhair Fern,Vascular Plants,Endangered,Schedule 1,1255.81,0.0,0.0
-196,Chimaphila maculata,Spotted Wintergreen,Vascular Plants,Endangered,Schedule 1,35967.41,1264.1999999999994,3.5148485809792787
+196,Chimaphila maculata,Spotted Wintergreen,Vascular Plants,Endangered,Schedule 1,35967.41,1264.1999999999994,3.51
 197,Drosera filiformis,Thread–leaved Sundew,Vascular Plants,Endangered,Schedule 1,12769.58,0.0,0.0
-198,Hydrocotyle umbellata,Water Pennywort,Vascular Plants,Special Concern,Schedule 1,32651.06,9.66,0.029585563225206165
+198,Hydrocotyle umbellata,Water Pennywort,Vascular Plants,Special Concern,Schedule 1,32651.06,9.66,0.03
 199,Ranunculus alismifolius,Water–plantain Buttercup,Vascular Plants,Endangered,Schedule 1,2511.62,0.0,0.0
-200,Platanthera praeclara,Western Prairie Fringed–orchid,Vascular Plants,Endangered,Schedule 1,49693.43,7419.570000000001,14.930686008190621
+200,Platanthera praeclara,Western Prairie Fringed–orchid,Vascular Plants,Endangered,Schedule 1,49693.43,7419.570000000001,14.93
 201,Gentiana alba,White Prairie Gentian,Vascular Plants,Endangered,Schedule 1,8445.77,0.0,0.0
 202,Stylophorum diphyllum,Wood–poppy,Vascular Plants,Endangered,Schedule 1,7848.83,0.0,0.0
 203,Collinsia verna,Spring Blue–eyed Mary,Vascular Plants,Extirpated,Schedule 1,28825.48,0.0,0.0
 204,Desmodium illinoense,Illinois Tick–trefoil,Vascular Plants,Extirpated,Schedule 1,144019.65,0.0,0.0
-205,Castanea dentata,American Chestnut,Vascular Plants,Endangered,Schedule 1,1337106.46,2813.57,0.21042228754171152
-206,Justicia americana,American Water–willow,Vascular Plants,Threatened,Schedule 1,165113.19,455.3200000000001,0.27576234218477647
+205,Castanea dentata,American Chestnut,Vascular Plants,Endangered,Schedule 1,1337106.46,2813.57,0.21
+206,Justicia americana,American Water–willow,Vascular Plants,Threatened,Schedule 1,165113.19,455.3200000000001,0.28
 207,Symphyotrichum anticostense,Anticosti Aster,Vascular Plants,Threatened,Schedule 1,178237.36,0.0,0.0
 208,Armeria maritima ssp. interior,Athabasca Thrift,Vascular Plants,Special Concern,Schedule 1,79399.96,0.0,0.0
-209,Viola pedata,Bird's–foot Violet,Vascular Plants,Endangered,Schedule 1,34612.06,339.62000000000006,0.9812186850479286
-210,Fraxinus quadrangulata,Blue Ash,Vascular Plants,Threatened,Schedule 1,178064.56,398.48999999999995,0.22378961877647072
-211,Buchnera americana,Bluehearts,Vascular Plants,Endangered,Schedule 1,24453.08,144.26,0.5899461335749933
-212,Woodsia obtusa,Blunt–lobed Woodsia,Vascular Plants,Threatened,Schedule 1,20361.57,437.65,2.1493922128794587
-213,Smilax rotundifolia,Round-leaved Greenbrier (Great Lakes Plains population),Vascular Plants,Threatened,Schedule 1,58312.44,1528.1,2.620538602054724
+209,Viola pedata,Bird's–foot Violet,Vascular Plants,Endangered,Schedule 1,34612.06,339.62000000000006,0.98
+210,Fraxinus quadrangulata,Blue Ash,Vascular Plants,Threatened,Schedule 1,178064.56,398.48999999999995,0.22
+211,Buchnera americana,Bluehearts,Vascular Plants,Endangered,Schedule 1,24453.08,144.26,0.59
+212,Woodsia obtusa,Blunt–lobed Woodsia,Vascular Plants,Threatened,Schedule 1,20361.57,437.65,2.15
+213,Smilax rotundifolia,Round-leaved Greenbrier (Great Lakes Plains population),Vascular Plants,Threatened,Schedule 1,58312.44,1528.1,2.62
 214,Aletris farinosa,Colicroot,Vascular Plants,Threatened,Schedule 1,34937.57,0.0,0.0
 215,Vaccinium stamineum,Deerberry,Vascular Plants,Threatened,Schedule 1,18104.46,0.0,0.0
-217,Panax quinquefolius,American Ginseng,Vascular Plants,Endangered,Schedule 1,13117593.19,40020.75999999998,0.30509224840505955
-218,Tephrosia virginiana,Virginia Goat's–rue,Vascular Plants,Endangered,Schedule 1,3806.4,12.62,0.3315468684321143
+217,Panax quinquefolius,American Ginseng,Vascular Plants,Endangered,Schedule 1,13117593.19,40020.75999999998,0.31
+218,Tephrosia virginiana,Virginia Goat's–rue,Vascular Plants,Endangered,Schedule 1,3806.4,12.62,0.33
 219,Lophiola aurea,Goldencrest,Vascular Plants,Special Concern,Schedule 1,28914.91,0.0,0.0
 220,Castilleja levisecta,Golden Paintbrush,Vascular Plants,Endangered,Schedule 1,2511.62,0.0,0.0
-221,Hydrastis canadensis,Goldenseal,Vascular Plants,Threatened,Schedule 1,94162.91,263.38,0.27970673378722044
-222,Gymnocladus dioicus,Kentucky Coffee–tree,Vascular Plants,Threatened,Schedule 1,162040.31,14.780000000000001,0.009121187191014384
+221,Hydrastis canadensis,Goldenseal,Vascular Plants,Threatened,Schedule 1,94162.91,263.38,0.28
+222,Gymnocladus dioicus,Kentucky Coffee–tree,Vascular Plants,Threatened,Schedule 1,162040.31,14.780000000000001,0.01
 223,Azolla mexicana,Mexican Mosquito–fern,Vascular Plants,Threatened,Schedule 1,65086.65,0.0,0.0
-224,Triphora trianthophoros,Nodding Pogonia,Vascular Plants,Endangered,Schedule 1,39244.07,30.31,0.07723459875593944
+224,Triphora trianthophoros,Nodding Pogonia,Vascular Plants,Endangered,Schedule 1,39244.07,30.31,0.08
 225,Cirsium pitcheri,Pitcher's Thistle,Vascular Plants,Special Concern,Schedule 1,51748.51,0.0,0.0
-226,Sabatia kennedyana,Plymouth Gentian,Vascular Plants,Endangered,Schedule 1,24696.78,1234.92,5.000327977979316
-227,Liparis liliifolia,Purple Twayblade,Vascular Plants,Threatened,Schedule 1,59377.01,347.03999999999996,0.5844686352512529
-228,Morus rubra,Red Mulberry,Vascular Plants,Endangered,Schedule 1,161762.24,336.39,0.207953351783457
+226,Sabatia kennedyana,Plymouth Gentian,Vascular Plants,Endangered,Schedule 1,24696.78,1234.92,5.0
+227,Liparis liliifolia,Purple Twayblade,Vascular Plants,Threatened,Schedule 1,59377.01,347.03999999999996,0.58
+228,Morus rubra,Red Mulberry,Vascular Plants,Endangered,Schedule 1,161762.24,336.39,0.21
 229,Lachnanthes caroliniana,Redroot,Vascular Plants,Special Concern,Schedule 1,31767.85,0.0,0.0
 230,Tripterocalyx micranthus,Small–flowered Sand–verbena,Vascular Plants,Endangered,Schedule 1,187703.46,0.0,0.0
-231,Lipocarpha micrantha,Small–flowered Lipocarpha,Vascular Plants,Endangered,Schedule 1,336041.62,1556.14,0.4630795435398747
-232,Clethra alnifolia,Sweet Pepperbush,Vascular Plants,Threatened,Schedule 1,11419.78,213.98,1.8737663947991992
-234,Polemonium vanbruntiae,Van Brunt's Jacob's–ladder,Vascular Plants,Threatened,Schedule 1,154701.73,545.8900000000001,0.35286612502652687
-235,Iris missouriensis,Western Blue Flag,Vascular Plants,Special Concern,Schedule 1,33224.44,337.28000000000003,1.0151563126421392
-236,Tradescantia occidentalis,Western Spiderwort,Vascular Plants,Threatened,Schedule 1,60398.94,62.6,0.10364420302740411
-237,Sericocarpus rigidus,White–top Aster,Vascular Plants,Special Concern,Schedule 1,21713.31,48.33,0.22258236998412492
-238,Eurybia divaricata,White Wood Aster,Vascular Plants,Threatened,Schedule 1,261490.75,1041.3799999999997,0.39824735674206435
-239,Viola praemorsa ssp. praemorsa,Yellow Montane Violet praemorsa subspecies,Vascular Plants,Endangered,Schedule 1,12256.64,41.09,0.33524685395018544
+231,Lipocarpha micrantha,Small–flowered Lipocarpha,Vascular Plants,Endangered,Schedule 1,336041.62,1556.14,0.46
+232,Clethra alnifolia,Sweet Pepperbush,Vascular Plants,Threatened,Schedule 1,11419.78,213.98,1.87
+234,Polemonium vanbruntiae,Van Brunt's Jacob's–ladder,Vascular Plants,Threatened,Schedule 1,154701.73,545.8900000000001,0.35
+235,Iris missouriensis,Western Blue Flag,Vascular Plants,Special Concern,Schedule 1,33224.44,337.28000000000003,1.02
+236,Tradescantia occidentalis,Western Spiderwort,Vascular Plants,Threatened,Schedule 1,60398.94,62.6,0.1
+237,Sericocarpus rigidus,White–top Aster,Vascular Plants,Special Concern,Schedule 1,21713.31,48.33,0.22
+238,Eurybia divaricata,White Wood Aster,Vascular Plants,Threatened,Schedule 1,261490.75,1041.3799999999997,0.4
+239,Viola praemorsa ssp. praemorsa,Yellow Montane Violet praemorsa subspecies,Vascular Plants,Endangered,Schedule 1,12256.64,41.09,0.34
 240,Frasera caroliniensis,American Columbo,Vascular Plants,Endangered,Schedule 1,100013.48,0.0,0.0
 241,Bartonia paniculata ssp. paniculata,Branched Bartonia,Vascular Plants,Threatened,Schedule 1,170228.2,0.0,0.0
-245,Rosa setigera,Climbing Prairie Rose,Vascular Plants,Special Concern,Schedule 1,228565.04,332.83000000000004,0.14561719500060027
-246,Liatris spicata,Dense Blazing Star,Vascular Plants,Threatened,Schedule 1,175652.95,264.82,0.15076319526657536
-247,Celtis tenuifolia,Dwarf Hackberry,Vascular Plants,Threatened,Schedule 1,66215.88,275.14999999999986,0.415534762960184
-248,Platanthera leucophaea,Eastern Prairie Fringed–orchid,Vascular Plants,Endangered,Schedule 1,393129.85,2802.3400000000006,0.7128280897520249
+245,Rosa setigera,Climbing Prairie Rose,Vascular Plants,Special Concern,Schedule 1,228565.04,332.83000000000004,0.15
+246,Liatris spicata,Dense Blazing Star,Vascular Plants,Threatened,Schedule 1,175652.95,264.82,0.15
+247,Celtis tenuifolia,Dwarf Hackberry,Vascular Plants,Threatened,Schedule 1,66215.88,275.14999999999986,0.42
+248,Platanthera leucophaea,Eastern Prairie Fringed–orchid,Vascular Plants,Endangered,Schedule 1,393129.85,2802.3400000000006,0.71
 249,Enemion biternatum,False Rue–anemone,Vascular Plants,Threatened,Schedule 1,63596.17,0.0,0.0
 250,Trichophorum planifolium,Bashful Bulrush,Vascular Plants,Endangered,Schedule 1,19684.64,0.0,0.0
-252,Symphyotrichum laurentianum,Gulf of St. Lawrence Aster,Vascular Plants,Threatened,Schedule 1,130898.2,115.47999999999999,0.08822122840497425
-254,Potamogeton hillii,Hill's Pondweed,Vascular Plants,Special Concern,Schedule 1,553656.75,2370.4599999999996,0.42814613928214545
-255,Ptelea trifoliata,Common Hoptree,Vascular Plants,Threatened,Schedule 1,148457.99,388.85999999999996,0.2619326854687983
-256,Arnoglossum plantagineum,Tuberous Indian–plantain,Vascular Plants,Special Concern,Schedule 1,132065.45,1766.16,1.3373369037852065
+252,Symphyotrichum laurentianum,Gulf of St. Lawrence Aster,Vascular Plants,Threatened,Schedule 1,130898.2,115.47999999999999,0.09
+254,Potamogeton hillii,Hill's Pondweed,Vascular Plants,Special Concern,Schedule 1,553656.75,2370.4599999999996,0.43
+255,Ptelea trifoliata,Common Hoptree,Vascular Plants,Threatened,Schedule 1,148457.99,388.85999999999996,0.26
+256,Arnoglossum plantagineum,Tuberous Indian–plantain,Vascular Plants,Special Concern,Schedule 1,132065.45,1766.16,1.34
 258,Lilaeopsis chinensis,Eastern Lilaeopsis,Vascular Plants,Special Concern,Schedule 1,62403.97,0.0,0.0
-259,Limnanthes macounii,Macoun's Meadowfoam,Vascular Plants,Threatened,Schedule 1,52761.61,349.03,0.661522648759202
+259,Limnanthes macounii,Macoun's Meadowfoam,Vascular Plants,Threatened,Schedule 1,52761.61,349.03,0.66
 260,Juncus caesariensis,New Jersey Rush,Vascular Plants,Special Concern,Schedule 1,48504.3,0.0,0.0
 261,Cephalanthera austiniae,Phantom Orchid,Vascular Plants,Endangered,Schedule 1,12204.67,0.0,0.0
-264,Chenopodium subglabrum,Smooth Goosefoot,Vascular Plants,Threatened,Schedule 1,4616021.31,2701.1199999999994,0.05851619432840095
+264,Chenopodium subglabrum,Smooth Goosefoot,Vascular Plants,Threatened,Schedule 1,4616021.31,2701.1199999999994,0.06
 265,Yucca glauca,Soapweed,Vascular Plants,Threatened,Schedule 1,3461.76,0.0,0.0
-266,Hibiscus moscheutos,Swamp Rose–mallow,Vascular Plants,Special Concern,Schedule 1,301266.22,890.0699999999997,0.2954430138234548
-267,Gentianopsis virgata ssp. victorinii,Victorin's Gentian,Vascular Plants,Threatened,Schedule 1,323316.02,85.50999999999999,0.026447807937262122
-268,Cicuta maculata var. victorinii,Victorin's Water–hemlock,Vascular Plants,Special Concern,Schedule 1,379839.28,85.50999999999999,0.022512153034830937
-269,Symphyotrichum sericeum,Western Silvery Aster,Vascular Plants,Threatened,Schedule 1,71039.03,462.49000000000007,0.6510364795240026
-270,Camassia scilloides,Wild Hyacinth,Vascular Plants,Threatened,Schedule 1,38506.98,422.29,1.0966583201279352
-271,Coluber constrictor foxii,Blue Racer,Reptiles,Endangered,Schedule 1,4107.33,64.95,1.5813192511923806
+266,Hibiscus moscheutos,Swamp Rose–mallow,Vascular Plants,Special Concern,Schedule 1,301266.22,890.0699999999997,0.3
+267,Gentianopsis virgata ssp. victorinii,Victorin's Gentian,Vascular Plants,Threatened,Schedule 1,323316.02,85.50999999999999,0.03
+268,Cicuta maculata var. victorinii,Victorin's Water–hemlock,Vascular Plants,Special Concern,Schedule 1,379839.28,85.50999999999999,0.02
+269,Symphyotrichum sericeum,Western Silvery Aster,Vascular Plants,Threatened,Schedule 1,71039.03,462.49000000000007,0.65
+270,Camassia scilloides,Wild Hyacinth,Vascular Plants,Threatened,Schedule 1,38506.98,422.29,1.1
+271,Coluber constrictor foxii,Blue Racer,Reptiles,Endangered,Schedule 1,4107.33,64.95,1.58
 272,Acris blanchardi,Blanchard's Cricket Frog,Amphibians,Endangered,Schedule 1,313.95,0.0,0.0
 273,Nerodia sipedon insularum,Lake Erie Watersnake,Reptiles,Endangered,Schedule 1,1389.75,0.0,0.0
-275,Phrynosoma douglasii,Pygmy Short–horned Lizard,Reptiles,Extirpated,Schedule 1,143754.62,1481.5500000000002,1.030610355340232
+275,Phrynosoma douglasii,Pygmy Short–horned Lizard,Reptiles,Extirpated,Schedule 1,143754.62,1481.5500000000002,1.03
 276,Emydoidea blandingii,Blanding's Turtle (Nova Scotia population),Reptiles,Endangered,Schedule 1,77306.01,0.0,0.0
-277,Sistrurus catenatus,Massasauga,Reptiles,Threatened,Schedule 1,1364571.0,2115.76,0.1550494624317826
-278,Apalone spinifera,Spiny Softshell,Reptiles,Threatened,Schedule 1,1741950.78,4604.040000000005,0.26430367912002684
-279,Phrynosoma hernandesi,Greater Short–horned Lizard,Reptiles,Endangered,Schedule 1,3165758.11,2008.2699999999995,0.06343725358094399
-280,Coluber constrictor flaviventris,Eastern Yellow–bellied Racer,Reptiles,Threatened,Schedule 1,445848.58,1082.2499999999998,0.24273936231892893
-281,Anaxyrus fowleri,Fowler's Toad,Amphibians,Endangered,Schedule 1,42939.53,159.21999999999997,0.37080051877605547
-282,Plestiodon septentrionalis,Prairie Skink,Reptiles,Endangered,Schedule 1,551707.28,1472.59,0.26691509309066935
+277,Sistrurus catenatus,Massasauga,Reptiles,Threatened,Schedule 1,1364571.0,2115.76,0.16
+278,Apalone spinifera,Spiny Softshell,Reptiles,Threatened,Schedule 1,1741950.78,4604.040000000005,0.26
+279,Phrynosoma hernandesi,Greater Short–horned Lizard,Reptiles,Endangered,Schedule 1,3165758.11,2008.2699999999995,0.06
+280,Coluber constrictor flaviventris,Eastern Yellow–bellied Racer,Reptiles,Threatened,Schedule 1,445848.58,1082.2499999999998,0.24
+281,Anaxyrus fowleri,Fowler's Toad,Amphibians,Endangered,Schedule 1,42939.53,159.21999999999997,0.37
+282,Plestiodon septentrionalis,Prairie Skink,Reptiles,Endangered,Schedule 1,551707.28,1472.59,0.27
 283,Dicamptodon tenebrosus,Coastal Giant Salamander,Amphibians,Threatened,Schedule 1,96151.82,0.0,0.0
-284,Ambystoma texanum,Small–mouthed Salamander,Amphibians,Endangered,Schedule 1,4425.12,421.83000000000004,9.532622844126262
-285,Clemmys guttata,Spotted Turtle,Reptiles,Endangered,Schedule 1,10813953.88,38948.68999999998,0.3601706686768298
-286,Glyptemys insculpta,Wood Turtle,Reptiles,Threatened,Schedule 1,22062850.15,46769.13999999999,0.21198140621917788
+284,Ambystoma texanum,Small–mouthed Salamander,Amphibians,Endangered,Schedule 1,4425.12,421.83000000000004,9.53
+285,Clemmys guttata,Spotted Turtle,Reptiles,Endangered,Schedule 1,10813953.88,38948.68999999998,0.36
+286,Glyptemys insculpta,Wood Turtle,Reptiles,Threatened,Schedule 1,22062850.15,46769.13999999999,0.21
 288,Trillium flexipes,Drooping Trillium,Vascular Plants,Endangered,Schedule 1,15698.01,0.0,0.0
 290,Bartramia stricta,Rigid Apple Moss,Mosses,Endangered,Schedule 1,2511.62,0.0,0.0
-291,Centrocercus urophasianus phaios,Greater Sage-Grouse phaios subspecies,Birds,Extirpated,Schedule 1,11217339.98,8916.939999999997,0.07949246448711093
-292,Ardea herodias fannini,Great Blue Heron fannini subspecies,Birds,Special Concern,Schedule 1,693642.33,415.2299999999999,0.059862263596283105
-293,Lycaeides melissa samuelis,Karner Blue,Arthropods,Extirpated,Schedule 1,73866.56,51.99,0.07038367564429697
-294,Danaus plexippus,Monarch,Arthropods,Special Concern,Schedule 1,191556555.23,373857.6099999991,0.19516826743470728
-301,Heterodon platirhinos,Eastern Hog–nosed Snake,Reptiles,Threatened,Schedule 1,5466982.68,16236.759999999982,0.2969967338546604
+291,Centrocercus urophasianus phaios,Greater Sage-Grouse phaios subspecies,Birds,Extirpated,Schedule 1,11217339.98,8916.939999999997,0.08
+292,Ardea herodias fannini,Great Blue Heron fannini subspecies,Birds,Special Concern,Schedule 1,693642.33,415.2299999999999,0.06
+293,Lycaeides melissa samuelis,Karner Blue,Arthropods,Extirpated,Schedule 1,73866.56,51.99,0.07
+294,Danaus plexippus,Monarch,Arthropods,Special Concern,Schedule 1,191556555.23,373857.60999999905,0.2
+301,Heterodon platirhinos,Eastern Hog–nosed Snake,Reptiles,Threatened,Schedule 1,5466982.68,16236.759999999982,0.3
 304,Coenonympha nipisiquit,Maritime Ringlet,Arthropods,Endangered,Schedule 1,6926.26,0.0,0.0
-305,Centrocercus urophasianus urophasianus,Greater Sage-Grouse urophasianus subspecies,Birds,Endangered,Schedule 1,730632.98,436.7799999999999,0.0597810408175114
+305,Centrocercus urophasianus urophasianus,Greater Sage-Grouse urophasianus subspecies,Birds,Endangered,Schedule 1,730632.98,436.7799999999999,0.06
 333,Aplodontia rufa,Mountain Beaver,Mammals,Special Concern,Schedule 1,1035754.21,0.0,0.0
-335,Rangifer tarandus,Caribou (Newfoundland population),Mammals,Special Concern,No schedule,5424628.99,2421.08,0.04463125504920475
-383,Coluber constrictor mormon,Western Yellow–bellied Racer,Reptiles,Special Concern,Schedule 1,1950270.22,5422.719999999999,0.2780496745727881
-492,Reithrodontomys megalotis dychei,Western Harvest Mouse dychei subspecies,Mammals,Endangered,Schedule 1,3269999.22,1026.5699999999997,0.03139358547002955
-526,Microtus pinetorum,Woodland Vole,Mammals,Special Concern,Schedule 1,1197792.83,12761.289999999977,1.0654004332285054
+335,Rangifer tarandus,Caribou (Newfoundland population),Mammals,Special Concern,No schedule,5424628.99,2421.08,0.04
+383,Coluber constrictor mormon,Western Yellow–bellied Racer,Reptiles,Special Concern,Schedule 1,1950270.22,5422.719999999999,0.28
+492,Reithrodontomys megalotis dychei,Western Harvest Mouse dychei subspecies,Mammals,Endangered,Schedule 1,3269999.22,1026.5699999999997,0.03
+526,Microtus pinetorum,Woodland Vole,Mammals,Special Concern,Schedule 1,1197792.83,12761.289999999977,1.07
 527,Dryopteris arguta,Coastal Wood Fern,Vascular Plants,Special Concern,Schedule 1,13887.78,0.0,0.0
 528,Triphysaria versicolor,Bearded Owl–clover,Vascular Plants,Endangered,Schedule 1,19083.25,0.0,0.0
-533,Dalea villosa,Hairy Prairie–clover,Vascular Plants,Special Concern,Schedule 1,87294.76,146.07,0.16732963124017983
+533,Dalea villosa,Hairy Prairie–clover,Vascular Plants,Special Concern,Schedule 1,87294.76,146.07,0.17
 534,Bouteloua dactyloides,Buffalograss,Vascular Plants,Special Concern,Schedule 1,34789.86,0.0,0.0
-539,Spea intermontana,Great Basin Spadefoot,Amphibians,Threatened,Schedule 1,2892252.9,9880.189999999999,0.34160878531749417
-541,Plethodon idahoensis,Coeur d'Alene Salamander,Amphibians,Special Concern,Schedule 1,6331320.57,64274.750000000015,1.0151871049549464
-551,Lithobates pipiens,Northern Leopard Frog (Rocky Mountain population),Amphibians,Endangered,Schedule 1,14719.08,1529.8000000000002,10.393312625517357
-552,Lithobates pipiens,Northern Leopard Frog (Western Boreal/Prairie populations),Amphibians,Special Concern,Schedule 1,62604290.88,89991.84999999998,0.1437470958220683
+539,Spea intermontana,Great Basin Spadefoot,Amphibians,Threatened,Schedule 1,2892252.9,9880.189999999999,0.34
+541,Plethodon idahoensis,Coeur d'Alene Salamander,Amphibians,Special Concern,Schedule 1,6331320.57,64274.750000000015,1.02
+551,Lithobates pipiens,Northern Leopard Frog (Rocky Mountain population),Amphibians,Endangered,Schedule 1,14719.08,1529.8000000000002,10.39
+552,Lithobates pipiens,Northern Leopard Frog (Western Boreal/Prairie populations),Amphibians,Special Concern,Schedule 1,62604290.88,89991.84999999998,0.14
 553,Cryptantha minima,Tiny Cryptantha,Vascular Plants,Threatened,Schedule 1,23547.11,0.0,0.0
-559,Anaxyrus cognatus,Great Plains Toad,Amphibians,Special Concern,Schedule 1,1733799.17,907.2999999999998,0.05233016693623171
-563,Gyrinophilus porphyriticus,Spring Salamander,Amphibians,Special Concern,Schedule 1,1507930.06,11020.509999999998,0.730836946111413
-566,Rana aurora,Northern Red–legged Frog,Amphibians,Special Concern,Schedule 1,3123976.84,416.19999999999993,0.013322762021500772
+559,Anaxyrus cognatus,Great Plains Toad,Amphibians,Special Concern,Schedule 1,1733799.17,907.2999999999998,0.05
+563,Gyrinophilus porphyriticus,Spring Salamander,Amphibians,Special Concern,Schedule 1,1507930.06,11020.509999999998,0.73
+566,Rana aurora,Northern Red–legged Frog,Amphibians,Special Concern,Schedule 1,3123976.84,416.19999999999993,0.01
 568,Solidago speciosa,Showy Goldenrod,Vascular Plants,Endangered,Schedule 1,22510.57,0.0,0.0
-570,Symphyotrichum praealtum,Willowleaf Aster,Vascular Plants,Threatened,Schedule 1,81309.79,172.37,0.21199169251328778
-571,Symphyotrichum prenanthoides,Crooked–stem Aster,Vascular Plants,Special Concern,Schedule 1,150823.86,1364.8400000000001,0.9049231335148168
-573,Anthus spragueii,Sprague's Pipit,Birds,Threatened,Schedule 1,61917388.16,33188.609999999964,0.053601437312306634
-574,Coturnicops noveboracensis,Yellow Rail,Birds,Special Concern,Schedule 1,190834098.74,101513.10000000008,0.05319442419895072
+570,Symphyotrichum praealtum,Willowleaf Aster,Vascular Plants,Threatened,Schedule 1,81309.79,172.37,0.21
+571,Symphyotrichum prenanthoides,Crooked–stem Aster,Vascular Plants,Special Concern,Schedule 1,150823.86,1364.8400000000001,0.9
+573,Anthus spragueii,Sprague's Pipit,Birds,Threatened,Schedule 1,61917388.16,33188.609999999964,0.05
+574,Coturnicops noveboracensis,Yellow Rail,Birds,Special Concern,Schedule 1,190834098.74,101513.10000000008,0.05
 575,Carex juniperorum,Juniper Sedge,Vascular Plants,Endangered,Schedule 1,15676.4,0.0,0.0
 576,Rotala ramosior,Toothcup,Vascular Plants,Endangered,Schedule 1,14670.43,0.0,0.0
-577,Ammannia robusta,Scarlet Ammannia,Vascular Plants,Endangered,Schedule 1,38035.12,346.47999999999996,0.9109475663544638
+577,Ammannia robusta,Scarlet Ammannia,Vascular Plants,Endangered,Schedule 1,38035.12,346.47999999999996,0.91
 580,Deschampsia mackenzieana,Mackenzie Hairgrass,Vascular Plants,Special Concern,Schedule 1,27552.49,0.0,0.0
-584,Catharus bicknelli,Bicknell's Thrush,Birds,Threatened,Schedule 1,2334377.72,52.519999999999996,0.0022498501227984644
-585,Regina septemvittata,Queensnake,Reptiles,Endangered,Schedule 1,707647.15,2752.790000000001,0.3890060180416188
-586,Contia tenuis,Sharp–tailed Snake,Reptiles,Endangered,Schedule 1,168369.06,422.51,0.25094278010461063
+584,Catharus bicknelli,Bicknell's Thrush,Birds,Threatened,Schedule 1,2334377.72,52.519999999999996,0.0
+585,Regina septemvittata,Queensnake,Reptiles,Endangered,Schedule 1,707647.15,2752.790000000001,0.39
+586,Contia tenuis,Sharp–tailed Snake,Reptiles,Endangered,Schedule 1,168369.06,422.51,0.25
 588,Thamnophis butleri,Butler's Gartersnake,Reptiles,Endangered,Schedule 1,370919.73,0.0,0.0
-589,Melanerpes lewis,Lewis's Woodpecker,Birds,Threatened,Schedule 1,3714930.96,72710.93000000001,1.957261945993204
-590,Callophrys irus,Frosted Elfin,Arthropods,Extirpated,Schedule 1,266332.73,2397.2200000000007,0.9000846422443087
+589,Melanerpes lewis,Lewis's Woodpecker,Birds,Threatened,Schedule 1,3714930.96,72710.93000000001,1.96
+590,Callophrys irus,Frosted Elfin,Arthropods,Extirpated,Schedule 1,266332.73,2397.2200000000007,0.9
 602,Euchloe ausonides insulanus,Island Marble,Arthropods,Extirpated,Schedule 1,1462.65,0.0,0.0
-608,Canis sp. cf. lycaon,Eastern Wolf,Mammals,Threatened,Schedule 1,60000065.05,48993.04999999993,0.08165499480570969
-611,Tyto alba,Barn Owl (Eastern population),Birds,Endangered,Schedule 1,1410938.89,2985.2700000000013,0.2115803895659862
+608,Canis sp. cf. lycaon,Eastern Wolf,Mammals,Threatened,Schedule 1,60000065.05,48993.04999999993,0.08
+611,Tyto alba,Barn Owl (Eastern population),Birds,Endangered,Schedule 1,1410938.89,2985.2700000000013,0.21
 614,Rana pretiosa,Oregon Spotted Frog,Amphibians,Endangered,Schedule 1,10360.44,0.0,0.0
-618,Gulo gulo,Wolverine,Mammals,Special Concern,No schedule,575315493.79,96255.01999999984,0.016730823528826183
-621,Taxidea taxus jacksoni,American Badger jacksoni subspecies,Mammals,Endangered,Schedule 1,2627308.05,4026.9300000000017,0.15327209156155108
-623,Taxidea taxus taxus,American Badger taxus subspecies,Mammals,No Status,No schedule,63098931.86,57616.05999999998,0.09131067405044974
+618,Gulo gulo,Wolverine,Mammals,Special Concern,No schedule,575315493.79,96255.01999999992,0.02
+621,Taxidea taxus jacksoni,American Badger jacksoni subspecies,Mammals,Endangered,Schedule 1,2627308.05,4026.9300000000017,0.15
+623,Taxidea taxus taxus,American Badger taxus subspecies,Mammals,No Status,No schedule,63098931.86,57616.05999999998,0.09
 626,Salix silicicola,Felt–leaf Willow,Vascular Plants,Special Concern,Schedule 1,155248.26,0.0,0.0
 627,Tanacetum huronense var. floccosum,Floccose Tansy,Vascular Plants,Special Concern,Schedule 1,25735.54,0.0,0.0
 628,Achillea millefolium var. megacephalum,Large–headed Woolly Yarrow,Vascular Plants,Special Concern,Schedule 1,16251.72,0.0,0.0
 630,Salix brachycarpa var. psammophila,Sand–dune Short–capsuled Willow,Vascular Plants,Special Concern,Schedule 1,23529.31,0.0,0.0
-631,Ascaphus truei,Coastal Tailed Frog,Amphibians,Special Concern,Schedule 1,10195268.65,768.6299999999999,0.007539085299140203
-632,Ascaphus montanus,Rocky Mountain Tailed Frog,Amphibians,Threatened,Schedule 1,37883.44,0.45,0.001187854112509318
+631,Ascaphus truei,Coastal Tailed Frog,Amphibians,Special Concern,Schedule 1,10195268.65,768.6299999999999,0.01
+632,Ascaphus montanus,Rocky Mountain Tailed Frog,Amphibians,Threatened,Schedule 1,37883.44,0.45,0.0
 633,Eleocharis tuberculosa,Tubercled Spike–rush,Vascular Plants,Special Concern,Schedule 1,35924.43,0.0,0.0
 634,Salix turnorii,Turnor's Willow,Vascular Plants,Special Concern,Schedule 1,19371.32,0.0,0.0
 635,Limenitis weidemeyerii,Weidemeyer's Admiral,Arthropods,Special Concern,Schedule 1,128614.81,0.0,0.0
-636,Rangifer tarandus,Woodland Caribou (Boreal population),Mammals,Threatened,Schedule 1,266306333.46,27713.42,0.010406594405747633
-637,Rangifer tarandus,Woodland Caribou (Northern Mountain population),Mammals,Special Concern,Schedule 1,76609014.75,362.85999999999996,0.00047365182959750827
-638,Rangifer tarandus,Woodland Caribou (Southern Mountain population),Mammals,Endangered,Schedule 1,6478866.77,48371.33000000001,0.7466017085577454
-640,Solidago riddellii,Riddell's Goldenrod,Vascular Plants,Special Concern,Schedule 1,315228.15,2139.01,0.6785593228269747
-642,Ambystoma jeffersonianum,Jefferson Salamander,Amphibians,Endangered,Schedule 1,632360.66,2523.7500000000005,0.39909977954669096
-644,Bucephala islandica,Barrow's Goldeneye (Eastern population),Birds,Special Concern,Schedule 1,28066595.09,2864.449999999999,0.010205904887339147
-646,Eleocharis equisetoides,Horsetail Spike–rush,Vascular Plants,Endangered,Schedule 1,7849.21,2.34,0.029811917377672404
-647,Asplenium scolopendrium,Hart's–tongue Fern,Vascular Plants,Special Concern,Schedule 1,414953.31,167.4,0.04034188810302537
-648,Euphyes vestris vestris,Dun Skipper vestris subspecies,Arthropods,Threatened,Schedule 1,331471.18,65.23,0.01967893558649654
+636,Rangifer tarandus,Woodland Caribou (Boreal population),Mammals,Threatened,Schedule 1,266306333.46,27713.42,0.01
+637,Rangifer tarandus,Woodland Caribou (Northern Mountain population),Mammals,Special Concern,Schedule 1,76609014.75,362.85999999999996,0.0
+638,Rangifer tarandus,Woodland Caribou (Southern Mountain population),Mammals,Endangered,Schedule 1,6478866.77,48371.33000000001,0.75
+640,Solidago riddellii,Riddell's Goldenrod,Vascular Plants,Special Concern,Schedule 1,315228.15,2139.01,0.68
+642,Ambystoma jeffersonianum,Jefferson Salamander,Amphibians,Endangered,Schedule 1,632360.66,2523.7500000000005,0.4
+644,Bucephala islandica,Barrow's Goldeneye (Eastern population),Birds,Special Concern,Schedule 1,28066595.09,2864.449999999999,0.01
+646,Eleocharis equisetoides,Horsetail Spike–rush,Vascular Plants,Endangered,Schedule 1,7849.21,2.34,0.03
+647,Asplenium scolopendrium,Hart's–tongue Fern,Vascular Plants,Special Concern,Schedule 1,414953.31,167.4,0.04
+648,Euphyes vestris vestris,Dun Skipper vestris subspecies,Arthropods,Threatened,Schedule 1,331471.18,65.23,0.02
 649,Euphydryas editha taylori,Taylor's Checkerspot,Arthropods,Endangered,Schedule 1,33324.39,0.0,0.0
-650,Satyrium behrii,Behr's Hairstreak,Arthropods,Endangered,Schedule 1,143200.06,1550.1000000000001,1.0824716134895476
-651,Plebejus saepiolus insulanus,Island Blue,Arthropods,Endangered,Schedule 1,523410.93,65.23,0.01246248334936376
+650,Satyrium behrii,Behr's Hairstreak,Arthropods,Endangered,Schedule 1,143200.06,1550.1000000000001,1.08
+651,Plebejus saepiolus insulanus,Island Blue,Arthropods,Endangered,Schedule 1,523410.93,65.23,0.01
 673,Actaea elata,Tall Bugbane,Vascular Plants,Endangered,Schedule 1,21858.95,0.0,0.0
 674,Sanicula arctopoides,Bear's–foot Sanicle,Vascular Plants,Endangered,Schedule 1,11783.76,0.0,0.0
-675,Calochortus lyallii,Lyall's Mariposa Lily,Vascular Plants,Special Concern,Schedule 1,7730.4,1114.2300000000002,14.413613784538967
-677,Sanicula bipinnatifida,Purple Sanicle,Vascular Plants,Threatened,Schedule 1,55698.68,68.21000000000001,0.12246250719047562
+675,Calochortus lyallii,Lyall's Mariposa Lily,Vascular Plants,Special Concern,Schedule 1,7730.4,1114.2300000000002,14.41
+677,Sanicula bipinnatifida,Purple Sanicle,Vascular Plants,Threatened,Schedule 1,55698.68,68.21000000000001,0.12
 678,Salix jejuna,Barrens Willow,Vascular Plants,Endangered,Schedule 1,48688.67,0.0,0.0
-681,Hypsiglena chlorophaea,Desert Nightsnake,Reptiles,Endangered,Schedule 1,220560.93,1550.1000000000001,0.7027989952708307
+681,Hypsiglena chlorophaea,Desert Nightsnake,Reptiles,Endangered,Schedule 1,220560.93,1550.1000000000001,0.7
 682,Crotalus horridus,Timber Rattlesnake,Reptiles,Extirpated,Schedule 1,5.93,0.0,0.0
 685,Psilocarphus elatior,Tall Woolly–heads,Vascular Plants,Endangered,Schedule 1,5023.24,0.0,0.0
-686,Charadrius melodus circumcinctus,Piping Plover circumcinctus subspecies,Birds,Endangered,Schedule 1,34110941.84,14361.019999999995,0.042100919017016486
-687,Charadrius melodus melodus,Piping Plover melodus subspecies,Birds,Endangered,Schedule 1,1033930.95,3594.27,0.3476315318735744
-688,Bidens amplissima,Vancouver Island Beggarticks,Vascular Plants,Special Concern,Schedule 1,207421.07,34.620000000000005,0.016690686245134114
-689,Bartramia halleriana,Haller's Apple Moss,Mosses,Threatened,Schedule 1,23546.27,0.97,0.0041195484465267745
+686,Charadrius melodus circumcinctus,Piping Plover circumcinctus subspecies,Birds,Endangered,Schedule 1,34110941.84,14361.019999999995,0.04
+687,Charadrius melodus melodus,Piping Plover melodus subspecies,Birds,Endangered,Schedule 1,1033930.95,3594.27,0.35
+688,Bidens amplissima,Vancouver Island Beggarticks,Vascular Plants,Special Concern,Schedule 1,207421.07,34.620000000000005,0.02
+689,Bartramia halleriana,Haller's Apple Moss,Mosses,Threatened,Schedule 1,23546.27,0.97,0.0
 690,Fissidens pauperculus,Poor Pocket Moss,Mosses,Endangered,Schedule 1,1255.81,0.0,0.0
 695,Ambystoma tigrinum,Tiger Salamander (Great Lakes population),Amphibians,Extirpated,Schedule 1,1576.31,0.0,0.0
-697,Ambystoma tigrinum,Tiger Salamander (Southern Mountain population),Amphibians,Endangered,Schedule 1,198334.22,1574.2100000000003,0.7937157793546671
+697,Ambystoma tigrinum,Tiger Salamander (Southern Mountain population),Amphibians,Endangered,Schedule 1,198334.22,1574.2100000000003,0.79
 702,Erioderma pedicellatum,Boreal Felt Lichen (Atlantic population),Lichens,Endangered,Schedule 1,51630.97,0.0,0.0
-703,Erioderma pedicellatum,Boreal Felt Lichen (Boreal population),Lichens,Special Concern,Schedule 1,561144.91,403.2,0.07185309762499671
-705,Tetraneuris herbacea,Lakeside Daisy,Vascular Plants,Threatened,Schedule 1,13173.88,1530.84,11.620266770306092
-706,Sternotherus odoratus,Eastern Musk Turtle,Reptiles,Special Concern,Schedule 1,3523665.41,16046.039999999979,0.4553792183123306
-708,Terrapene carolina,Eastern Box Turtle,Reptiles,Extirpated,No schedule,2656953.13,3540.630000000001,0.1332590311820819
-709,Thamnophis sauritus,Eastern Ribbonsnake (Great Lakes population),Reptiles,Special Concern,Schedule 1,7104968.17,24544.549999999992,0.34545615705411375
+703,Erioderma pedicellatum,Boreal Felt Lichen (Boreal population),Lichens,Special Concern,Schedule 1,561144.91,403.2,0.07
+705,Tetraneuris herbacea,Lakeside Daisy,Vascular Plants,Threatened,Schedule 1,13173.88,1530.84,11.62
+706,Sternotherus odoratus,Eastern Musk Turtle,Reptiles,Special Concern,Schedule 1,3523665.41,16046.039999999979,0.46
+708,Terrapene carolina,Eastern Box Turtle,Reptiles,Extirpated,No schedule,2656953.13,3540.630000000001,0.13
+709,Thamnophis sauritus,Eastern Ribbonsnake (Great Lakes population),Reptiles,Special Concern,Schedule 1,7104968.17,24544.549999999992,0.35
 710,Actinemys marmorata,Pacific Pond Turtle,Reptiles,Extirpated,Schedule 1,23347.55,0.0,0.0
-712,Graptemys geographica,Northern Map Turtle,Reptiles,Special Concern,Schedule 1,8148999.4,32025.75,0.3930022377962134
-713,Plestiodon skiltonianus,Western Skink,Reptiles,Special Concern,Schedule 1,4150864.67,56527.28000000001,1.3618193917172445
-714,Lampropeltis triangulum,Eastern Milksnake,Reptiles,Special Concern,Schedule 1,15190475.66,46050.01,0.303150546636668
+712,Graptemys geographica,Northern Map Turtle,Reptiles,Special Concern,Schedule 1,8148999.4,32025.75,0.39
+713,Plestiodon skiltonianus,Western Skink,Reptiles,Special Concern,Schedule 1,4150864.67,56527.28000000001,1.36
+714,Lampropeltis triangulum,Eastern Milksnake,Reptiles,Special Concern,Schedule 1,15190475.66,46050.01,0.3
 715,Tegeticula yuccasella,Yucca Moth,Arthropods,Endangered,Schedule 1,71594.31,0.0,0.0
-719,Megascops kennicottii kennicottii,Western Screech-owl kennicottii subspecies,Birds,Threatened,Schedule 1,10621358.29,1009.6200000000001,0.009505563906553802
-720,Megascops kennicottii macfarlanei,Western Screech-owl macfarlanei subspecies,Birds,Threatened,Schedule 1,5924840.68,64112.77000000005,1.0821011646173084
+719,Megascops kennicottii kennicottii,Western Screech-owl kennicottii subspecies,Birds,Threatened,Schedule 1,10621358.29,1009.6200000000001,0.01
+720,Megascops kennicottii macfarlanei,Western Screech-owl macfarlanei subspecies,Birds,Threatened,Schedule 1,5924840.68,64112.77000000005,1.08
 721,Pituophis catenifer catenifer,Pacific Gophersnake,Reptiles,Extirpated,Schedule 1,749182.28,0.0,0.0
-722,Pituophis catenifer deserticola,Great Basin Gophersnake,Reptiles,Threatened,Schedule 1,1842879.48,6988.79,0.379232070021204
-728,Thamnophis sauritus,Eastern Ribbonsnake (Atlantic population),Reptiles,Threatened,Schedule 1,217772.73,257.39,0.11819202523658492
-732,Cryptomastix devia,Puget Oregonian,Molluscs,Extirpated,Schedule 1,310655.07,75.55000000000001,0.0243195773370124
-734,Ptychomitrium incurvum,Incurved Grizzled Moss,Mosses,Extirpated,Schedule 1,148872.85,21.67,0.014556045645663398
+722,Pituophis catenifer deserticola,Great Basin Gophersnake,Reptiles,Threatened,Schedule 1,1842879.48,6988.79,0.38
+728,Thamnophis sauritus,Eastern Ribbonsnake (Atlantic population),Reptiles,Threatened,Schedule 1,217772.73,257.39,0.12
+732,Cryptomastix devia,Puget Oregonian,Molluscs,Extirpated,Schedule 1,310655.07,75.55000000000001,0.02
+734,Ptychomitrium incurvum,Incurved Grizzled Moss,Mosses,Extirpated,Schedule 1,148872.85,21.67,0.01
 735,Scouleria marginata,Margined Streamside Moss,Mosses,Endangered,Schedule 1,7646.48,0.0,0.0
-739,Sclerophora peronella,Frosted Glass-whiskers (Nova Scotia population),Lichens,Special Concern,Schedule 1,1552326.28,1233.35,0.0794517245433737
+739,Sclerophora peronella,Frosted Glass-whiskers (Nova Scotia population),Lichens,Special Concern,Schedule 1,1552326.28,1233.35,0.08
 741,Fabronia pusilla,Silver Hair Moss,Mosses,Endangered,Schedule 1,12579.81,0.0,0.0
-744,Aristida basiramea,Forked Three–awned Grass,Vascular Plants,Endangered,Schedule 1,185833.95,834.9200000000001,0.4492828140390924
+744,Aristida basiramea,Forked Three–awned Grass,Vascular Plants,Endangered,Schedule 1,185833.95,834.9200000000001,0.45
 745,Allogona townsendiana,Oregon Forestsnail,Molluscs,Endangered,Schedule 1,141723.68,0.0,0.0
 746,Lupinus rivularis,Streambank Lupine,Vascular Plants,Endangered,Schedule 1,38856.84,0.0,0.0
-748,Anaxyrus boreas,Western Toad,Amphibians,Special Concern,Schedule 1,87892840.46,94170.18999999993,0.10714204878024935
+748,Anaxyrus boreas,Western Toad,Amphibians,Special Concern,Schedule 1,87892840.46,94170.18999999993,0.11
 751,Antennaria flagellaris,Stoloniferous Pussytoes,Vascular Plants,Endangered,Schedule 1,15145.42,0.0,0.0
-752,Apodemia mormo,Mormon Metalmark (Southern Mountain population),Arthropods,Endangered,Schedule 1,59319.87,525.4699999999999,0.8858245980646955
+752,Apodemia mormo,Mormon Metalmark (Southern Mountain population),Arthropods,Endangered,Schedule 1,59319.87,525.4699999999999,0.89
 753,Apodemia mormo,Mormon Metalmark (Prairie population),Arthropods,Special Concern,Schedule 1,131011.42,0.0,0.0
-757,Bryoandersonia illecebra,Spoon–leaved Moss,Mosses,Endangered,Schedule 1,69904.21,119.82000000000001,0.17140598541919005
-759,Charina bottae,Northern Rubber Boa,Reptiles,Special Concern,Schedule 1,5016831.43,60360.31000000005,1.2031560326913366
+757,Bryoandersonia illecebra,Spoon–leaved Moss,Mosses,Endangered,Schedule 1,69904.21,119.82000000000001,0.17
+759,Charina bottae,Northern Rubber Boa,Reptiles,Special Concern,Schedule 1,5016831.43,60360.31000000005,1.2
 760,Collomia tenella,Slender Collomia,Vascular Plants,Endangered,Schedule 1,11150.78,0.0,0.0
 765,Hemphillia dromedarius,Dromedary Jumping–slug,Molluscs,Threatened,Schedule 1,73910.46,0.0,0.0
 766,Hemphillia glandulosa,Warty Jumping–slug,Molluscs,Special Concern,Schedule 1,110984.49,0.0,0.0
@@ -286,204 +286,204 @@ COSEWICID,SCI_NAME,COM_NAME_E,TAXON_E,SAR_STAT_E,SCHEDULE_E,RANGE_HA,NCC_FS_HA,P
 772,Polystichum lemmonii,Lemmon's Holly Fern,Vascular Plants,Threatened,Schedule 1,16610.66,0.0,0.0
 773,Psilocarphus brevissimus,Dwarf Woolly-heads (Southern Mountain population),Vascular Plants,Endangered,Schedule 1,16.08,0.0,0.0
 775,Silene scouleri ssp. grandis,Coastal Scouler's Catchfly,Vascular Plants,Endangered,Schedule 1,5414.0,0.0,0.0
-778,Triteleia howellii,Howell's Triteleia,Vascular Plants,Endangered,Schedule 1,64286.22,74.58000000000001,0.1160124207022905
-779,Tonella tenella,Small–flowered Tonella,Vascular Plants,Endangered,Schedule 1,13113.18,23.680000000000003,0.18058167431545974
+778,Triteleia howellii,Howell's Triteleia,Vascular Plants,Endangered,Schedule 1,64286.22,74.58000000000001,0.12
+779,Tonella tenella,Small–flowered Tonella,Vascular Plants,Endangered,Schedule 1,13113.18,23.680000000000003,0.18
 789,Copablepharon fuscum,Sand–verbena Moth,Arthropods,Endangered,Schedule 1,22921.08,0.0,0.0
 790,Eremophila alpestris strigata,Horned Lark strigata subspecies,Birds,Endangered,Schedule 1,56608.78,0.0,0.0
-792,Hesperia dacotae,Dakota Skipper,Arthropods,Endangered,Schedule 1,518437.8,10271.49,1.9812386365346046
-793,Juglans cinerea,Butternut,Vascular Plants,Endangered,Schedule 1,23126035.69,59664.99999999991,0.2579992559027306
+792,Hesperia dacotae,Dakota Skipper,Arthropods,Endangered,Schedule 1,518437.8,10271.49,1.98
+793,Juglans cinerea,Butternut,Vascular Plants,Endangered,Schedule 1,23126035.69,59664.99999999991,0.26
 795,Haplodontium macrocarpum,Porsild's Bryum,Mosses,Threatened,Schedule 1,2733170.13,0.0,0.0
-796,Oarisma poweshiek,Poweshiek Skipperling,Arthropods,Endangered,Schedule 1,86697.8,8411.780000000002,9.702414594141953
-797,Phoebastria albatrus,Short–tailed Albatross,Birds,Threatened,Schedule 1,8042063.11,629.0,0.007821376074727172
-806,Bryoerythrophyllum columbianum,Columbian Carpet Moss,Mosses,Special Concern,Schedule 1,157925.83,1280.0300000000002,0.8105260551741285
-807,Cirsium hillii,Hill's Thistle,Vascular Plants,Threatened,Schedule 1,972105.25,24704.50999999999,2.5413410739217785
-808,Crotalus oreganus,Western Rattlesnake,Reptiles,Threatened,Schedule 1,663473.41,1717.44,0.25885588994440634
-809,Entosthodon rubiginosus,Rusty Cord–moss,Mosses,Endangered,Schedule 1,65893.83,966.3800000000001,1.4665713011369959
-812,Leptogium rivulare,Flooded Jellyskin,Lichens,Threatened,Schedule 1,401405.58,315.7,0.078648632637344
+796,Oarisma poweshiek,Poweshiek Skipperling,Arthropods,Endangered,Schedule 1,86697.8,8411.780000000002,9.7
+797,Phoebastria albatrus,Short–tailed Albatross,Birds,Threatened,Schedule 1,8042063.11,629.0,0.01
+806,Bryoerythrophyllum columbianum,Columbian Carpet Moss,Mosses,Special Concern,Schedule 1,157925.83,1280.0300000000002,0.81
+807,Cirsium hillii,Hill's Thistle,Vascular Plants,Threatened,Schedule 1,972105.25,24704.50999999999,2.54
+808,Crotalus oreganus,Western Rattlesnake,Reptiles,Threatened,Schedule 1,663473.41,1717.44,0.26
+809,Entosthodon rubiginosus,Rusty Cord–moss,Mosses,Endangered,Schedule 1,65893.83,966.3800000000001,1.47
+812,Leptogium rivulare,Flooded Jellyskin,Lichens,Threatened,Schedule 1,401405.58,315.7,0.08
 813,Lotus pinnatus,Bog Bird’s–foot Trefoil,Vascular Plants,Endangered,Schedule 1,36475.53,0.0,0.0
-814,Loxia curvirostra percna,Red Crossbill percna subspecies,Birds,Endangered,Schedule 1,10833206.06,3456.7100000000005,0.03190846717818271
+814,Loxia curvirostra percna,Red Crossbill percna subspecies,Birds,Endangered,Schedule 1,10833206.06,3456.7100000000005,0.03
 815,Minuartia pusilla,Dwarf Sandwort,Vascular Plants,Endangered,Schedule 1,9462.05,0.0,0.0
 816,Orthocarpus bracteosus,Rosy Owl–clover,Vascular Plants,Endangered,Schedule 1,6049.43,0.0,0.0
-818,Pterygoneurum kozlovii,Alkaline Wing–nerved Moss,Mosses,Threatened,Schedule 1,932072.08,9737.34,1.0446981739867158
-819,Puffinus creatopus,Pink–footed Shearwater,Birds,Threatened,Schedule 1,20041460.26,88.0599999999997,0.00043938914059947693
-820,Syntrichia laevipila,Twisted Oak Moss,Mosses,Special Concern,Schedule 1,104697.04,416.19999999999993,0.39752795303477534
+818,Pterygoneurum kozlovii,Alkaline Wing–nerved Moss,Mosses,Threatened,Schedule 1,932072.08,9737.34,1.04
+819,Puffinus creatopus,Pink–footed Shearwater,Birds,Threatened,Schedule 1,20041460.26,88.0599999999997,0.0
+820,Syntrichia laevipila,Twisted Oak Moss,Mosses,Special Concern,Schedule 1,104697.04,416.19999999999993,0.4
 821,Abronia umbellata,Pink Sand–verbena,Vascular Plants,Endangered,Schedule 1,6161.88,0.0,0.0
 822,Rangifer tarandus groenlandicus,Barren-ground Caribou (Dolphin and Union population),Mammals,Special Concern,Schedule 1,27688480.04,0.0,0.0
 823,Rangifer tarandus pearyi,Peary Caribou,Mammals,Endangered,Schedule 1,57690689.95,0.0,0.0
-826,Iris lacustris,Dwarf Lake Iris,Vascular Plants,Special Concern,Schedule 1,440903.88,12288.089999999995,2.787022423118616
+826,Iris lacustris,Dwarf Lake Iris,Vascular Plants,Special Concern,Schedule 1,440903.88,12288.089999999995,2.79
 831,Phlox speciosa ssp. occidentalis,Showy Phlox,Vascular Plants,Threatened,Schedule 1,45306.74,0.0,0.0
 843,Carex sabulosa,Baikal Sedge,Vascular Plants,Threatened,Schedule 1,595255.17,0.0,0.0
 844,Castilleja rupicola,Cliff Paintbrush,Vascular Plants,Threatened,Schedule 1,113557.82,0.0,0.0
-846,Emydoidea blandingii,Blanding's Turtle (Great Lakes / St. Lawrence population),Reptiles,Threatened,Schedule 1,9573379.23,34632.260000000024,0.3617558561920671
-848,Entosthodon fascicularis,Banded Cord–moss,Mosses,Special Concern,Schedule 1,304618.05,11.290000000000001,0.0037062807013569948
-849,Epilobium densiflorum,Dense Spike–primrose,Vascular Plants,Endangered,Schedule 1,43489.41,64.97,0.14939269123218732
-852,Fissidens exilis,Pygmy Pocket Moss,Mosses,Special Concern,Schedule 1,484598.76,3233.7900000000013,0.6673128920098766
-853,Schinia bimatris,White Flower Moth,Arthropods,Endangered,Schedule 1,86142.14,385.01000000000005,0.4469473361121514
+846,Emydoidea blandingii,Blanding's Turtle (Great Lakes / St. Lawrence population),Reptiles,Threatened,Schedule 1,9573379.23,34632.260000000024,0.36
+848,Entosthodon fascicularis,Banded Cord–moss,Mosses,Special Concern,Schedule 1,304618.05,11.290000000000001,0.0
+849,Epilobium densiflorum,Dense Spike–primrose,Vascular Plants,Endangered,Schedule 1,43489.41,64.97,0.15
+852,Fissidens exilis,Pygmy Pocket Moss,Mosses,Special Concern,Schedule 1,484598.76,3233.7900000000013,0.67
+853,Schinia bimatris,White Flower Moth,Arthropods,Endangered,Schedule 1,86142.14,385.01000000000005,0.45
 856,Lupinus densiflorus,Dense–flowered Lupine,Vascular Plants,Endangered,Schedule 1,16616.47,0.0,0.0
-857,Meconella oregana,White Meconella,Vascular Plants,Endangered,Schedule 1,52795.08,10.32,0.01954727599617237
+857,Meconella oregana,White Meconella,Vascular Plants,Endangered,Schedule 1,52795.08,10.32,0.02
 859,Microbryum vlassovii,Nugget Moss,Mosses,Endangered,Schedule 1,7431.87,0.0,0.0
-862,Orthocarpus barbatus,Grand Coulee Owl–clover,Vascular Plants,Endangered,Schedule 1,25312.48,1457.94,5.759767513890382
-863,Phacelia ramosissima,Branched Phacelia,Vascular Plants,Endangered,Schedule 1,26873.62,1481.28,5.5120225708334045
-864,Polystichum scopulinum,Mountain Holly Fern,Vascular Plants,Threatened,Schedule 1,2485362.98,10.7,0.0004305206155440522
-865,Schinia verna,Verna's Flower Moth,Arthropods,Threatened,Schedule 1,1706003.65,1474.3899999999999,0.08642361345475433
+862,Orthocarpus barbatus,Grand Coulee Owl–clover,Vascular Plants,Endangered,Schedule 1,25312.48,1457.94,5.76
+863,Phacelia ramosissima,Branched Phacelia,Vascular Plants,Endangered,Schedule 1,26873.62,1481.28,5.51
+864,Polystichum scopulinum,Mountain Holly Fern,Vascular Plants,Threatened,Schedule 1,2485362.98,10.7,0.0
+865,Schinia verna,Verna's Flower Moth,Arthropods,Threatened,Schedule 1,1706003.65,1474.3899999999999,0.09
 866,Hesperia ottoe,Ottoe Skipper,Arthropods,Endangered,Schedule 1,10062.92,0.0,0.0
 867,Silene spaldingii,Spalding's Campion,Vascular Plants,Endangered,Schedule 1,10022.34,0.0,0.0
-868,Solidago houghtonii,Houghton's Goldenrod,Vascular Plants,Special Concern,Schedule 1,311572.32,10668.830000000002,3.4241905699453663
+868,Solidago houghtonii,Houghton's Goldenrod,Vascular Plants,Special Concern,Schedule 1,311572.32,10668.830000000002,3.42
 869,Sphyrapicus thyroideus,Williamson's Sapsucker,Birds,Endangered,Schedule 1,1056541.92,0.0,0.0
-870,Isoetes prototypus,Prototype Quillwort,Vascular Plants,Special Concern,Schedule 1,237450.18,367.81,0.15489986152042504
-882,Sclerophora peronella,Frosted Glass-whiskers (Pacific population),Lichens,No Status,No schedule,457769.27,2327.7100000000005,0.5084897900638897
-883,Aegolius acadicus brooksi,Northern Saw-whet Owl brooksi subspecies,Birds,Threatened,Schedule 1,952466.26,59.129999999999995,0.006208093922403088
+870,Isoetes prototypus,Prototype Quillwort,Vascular Plants,Special Concern,Schedule 1,237450.18,367.81,0.15
+882,Sclerophora peronella,Frosted Glass-whiskers (Pacific population),Lichens,No Status,No schedule,457769.27,2327.7100000000005,0.51
+883,Aegolius acadicus brooksi,Northern Saw-whet Owl brooksi subspecies,Birds,Threatened,Schedule 1,952466.26,59.129999999999995,0.01
 884,Agalinis aspera,Rough Agalinis,Vascular Plants,Endangered,Schedule 1,15272.51,0.0,0.0
 896,Betula lenta,Cherry Birch,Vascular Plants,Endangered,Schedule 1,3384.42,0.0,0.0
-897,Rhynchophanes mccownii,McCown's Longspur,Birds,Special Concern,Schedule 1,22198312.38,13395.000000000013,0.06034242500375163
-898,Camissonia contorta,Contorted–pod Evening–primrose,Vascular Plants,Endangered,Schedule 1,212401.13,392.52,0.1848012767163715
-902,Chrysemys picta bellii,Western Painted Turtle (Pacific Coast population),Reptiles,Endangered,Schedule 1,382791.83,11.290000000000001,0.002949383742072029
-903,Chrysemys picta bellii,Western Painted Turtle (Intermountain - Rocky Mountain population),Reptiles,Special Concern,Schedule 1,38178394.93,52179.79999999998,0.136673634645122
-906,Erynnis persius persius,Eastern persius Duskywing,Arthropods,Endangered,Schedule 1,349513.91,2480.36,0.7096598816338956
-907,Euphagus carolinus,Rusty Blackbird,Birds,Special Concern,Schedule 1,668933617.21,311346.6699999997,0.04654373199220721
-910,Microseris bigelovii,Coast Microseris,Vascular Plants,Endangered,Schedule 1,41333.16,340.65,0.8241566819473758
-919,Papaipema aweme,Aweme Borer,Arthropods,Endangered,Schedule 1,20531732.75,78768.8899999999,0.38364462931166826
+897,Rhynchophanes mccownii,McCown's Longspur,Birds,Special Concern,Schedule 1,22198312.38,13395.000000000013,0.06
+898,Camissonia contorta,Contorted–pod Evening–primrose,Vascular Plants,Endangered,Schedule 1,212401.13,392.52,0.18
+902,Chrysemys picta bellii,Western Painted Turtle (Pacific Coast population),Reptiles,Endangered,Schedule 1,382791.83,11.290000000000001,0.0
+903,Chrysemys picta bellii,Western Painted Turtle (Intermountain - Rocky Mountain population),Reptiles,Special Concern,Schedule 1,38178394.93,52179.79999999998,0.14
+906,Erynnis persius persius,Eastern persius Duskywing,Arthropods,Endangered,Schedule 1,349513.91,2480.36,0.71
+907,Euphagus carolinus,Rusty Blackbird,Birds,Special Concern,Schedule 1,668933617.21,311346.6699999997,0.05
+910,Microseris bigelovii,Coast Microseris,Vascular Plants,Endangered,Schedule 1,41333.16,340.65,0.82
+919,Papaipema aweme,Aweme Borer,Arthropods,Endangered,Schedule 1,20531732.75,78768.8899999999,0.38
 923,Polites sonora,Sonora Skipper,Arthropods,Special Concern,Schedule 1,280851.24,0.0,0.0
-924,Pooecetes gramineus affinis,Vesper Sparrow affinis subspecies,Birds,Endangered,Schedule 1,239240.29,363.81999999999994,0.15207304756234827
-927,Prodoxus quinquepunctellus,Five–spotted Bogus Yucca Moth,Arthropods,Endangered,Schedule 1,575368.19,958.2199999999999,0.16654031568898517
+924,Pooecetes gramineus affinis,Vesper Sparrow affinis subspecies,Birds,Endangered,Schedule 1,239240.29,363.81999999999994,0.15
+927,Prodoxus quinquepunctellus,Five–spotted Bogus Yucca Moth,Arthropods,Endangered,Schedule 1,575368.19,958.2199999999999,0.17
 929,Prophysaon coeruleum,Blue–grey Taildropper,Molluscs,Endangered,Schedule 1,837.73,0.0,0.0
-932,Psilocarphus brevissimus,Dwarf Woolly-heads (Prairie population),Vascular Plants,Special Concern,Schedule 1,152990.09,204.94,0.13395638893996337
+932,Psilocarphus brevissimus,Dwarf Woolly-heads (Prairie population),Vascular Plants,Special Concern,Schedule 1,152990.09,204.94,0.13
 935,Salix chlorolepis,Green–scaled Willow,Vascular Plants,Threatened,Schedule 1,117984.1,0.0,0.0
-937,Satyrium semiluna,Half–moon Hairstreak,Arthropods,Endangered,Schedule 1,506106.16,8555.979999999998,1.6905504568448642
-939,Schinia avemensis,Gold–edged Gem,Arthropods,Endangered,Schedule 1,2349713.52,1728.1600000000003,0.07354768933703885
+937,Satyrium semiluna,Half–moon Hairstreak,Arthropods,Endangered,Schedule 1,506106.16,8555.979999999998,1.69
+939,Schinia avemensis,Gold–edged Gem,Arthropods,Endangered,Schedule 1,2349713.52,1728.1600000000003,0.07
 940,Symphyotrichum frondosum,Short–rayed Alkali Aster,Vascular Plants,Endangered,Schedule 1,6231.19,0.0,0.0
 941,Tegeticula corruptrix,Non–pollinating Yucca Moth,Arthropods,Endangered,Schedule 1,10848.96,0.0,0.0
-942,Vermivora chrysoptera,Golden–winged Warbler,Birds,Threatened,Schedule 1,18784468.83,52264.70000000005,0.2782335794160438
+942,Vermivora chrysoptera,Golden–winged Warbler,Birds,Threatened,Schedule 1,18784468.83,52264.70000000005,0.28
 944,Epilobium torreyi,Brook Spike–primrose,Vascular Plants,Endangered,Schedule 1,5282.06,0.0,0.0
-951,Chaetura pelagica,Chimney Swift,Birds,Threatened,Schedule 1,79391779.92,121673.82999999983,0.15325746585176173
-963,Desmognathus ochrophaeus,Allegheny Mountain Dusky Salamander (Carolinian population),Amphibians,Endangered,Schedule 1,99498.16,21.830000000000002,0.021940104219012695
-967,Potamogeton ogdenii,Ogden's Pondweed,Vascular Plants,Endangered,Schedule 1,90630.29,1005.8799999999999,1.1098717658301656
-973,Plestiodon fasciatus,Five-lined Skink (Great Lakes / St. Lawrence population),Reptiles,Special Concern,Schedule 1,355252.7,622.75,0.17529775283903543
-974,Plestiodon fasciatus,Five-lined Skink (Carolinian population),Reptiles,Endangered,Schedule 1,42172.97,80.24000000000001,0.19026404827547125
-980,Calidris canutus rufa,Red Knot rufa subspecies,Birds,Endangered,Schedule 1,141306871.71,21976.069999999963,0.015552017912547674
+951,Chaetura pelagica,Chimney Swift,Birds,Threatened,Schedule 1,79391779.92,121673.82999999983,0.15
+963,Desmognathus ochrophaeus,Allegheny Mountain Dusky Salamander (Carolinian population),Amphibians,Endangered,Schedule 1,99498.16,21.830000000000002,0.02
+967,Potamogeton ogdenii,Ogden's Pondweed,Vascular Plants,Endangered,Schedule 1,90630.29,1005.8799999999999,1.11
+973,Plestiodon fasciatus,Five-lined Skink (Great Lakes / St. Lawrence population),Reptiles,Special Concern,Schedule 1,355252.7,622.75,0.18
+974,Plestiodon fasciatus,Five-lined Skink (Carolinian population),Reptiles,Endangered,Schedule 1,42172.97,80.24000000000001,0.19
+980,Calidris canutus rufa,Red Knot rufa subspecies,Birds,Endangered,Schedule 1,141306871.71,21976.069999999963,0.02
 981,Calidris canutus islandica,Red Knot islandica subspecies,Birds,Special Concern,Schedule 1,50666613.83,0.0,0.0
-982,Calidris canutus roselaari type,Red Knot roselaari type,Birds,Threatened,Schedule 1,15545069.51,7821.440000000002,0.05031460293547444
-983,Pantherophis spiloides,Gray Ratsnake (Great Lakes / St. Lawrence population),Reptiles,Threatened,Schedule 1,366605.11,2449.2099999999996,0.6680785218733039
-984,Pantherophis spiloides,Gray Ratsnake (Carolinian population),Reptiles,Endangered,Schedule 1,131978.32,1845.3699999999997,1.3982372256291788
-986,Chordeiles minor,Common Nighthawk,Birds,Threatened,Schedule 1,497805007.49,388720.08999999973,0.07808681796110868
-987,Cornus florida,Eastern Flowering Dogwood,Vascular Plants,Endangered,Schedule 1,2446553.55,3011.6500000000005,0.1230976530229637
-991,Phoebastria nigripes,Black–footed Albatross,Birds,Special Concern,Schedule 1,16119927.91,120.09999999999971,0.0007450405527278795
-995,Falco peregrinus anatum/tundrius,Peregrine Falcon anatum/tundrius,Birds,Special Concern,Schedule 1,332142710.22,61569.71999999995,0.018537128199868743
-997,Copablepharon longipenne,Dusky Dune Moth,Arthropods,Endangered,Schedule 1,37263924.95,18486.830000000016,0.04961052821141433
-998,Copablepharon grandis,Pale Yellow Dune Moth,Arthropods,Special Concern,Schedule 1,33182717.6,42107.87999999999,0.1268970206346209
-999,Contopus cooperi,Olive–sided Flycatcher,Birds,Threatened,Schedule 1,555029627.43,355048.87999999913,0.0639693563105832
-1004,Desmognathus ochrophaeus,Allegheny Mountain Dusky Salamander (Great Lakes / St. Lawrence population),Amphibians,Threatened,Schedule 1,128038.79,1070.13,0.8357857802311316
-1005,Lechea maritima,Beach Pinweed,Vascular Plants,Special Concern,Schedule 1,118996.41,228.87,0.19233353342340329
+982,Calidris canutus roselaari type,Red Knot roselaari type,Birds,Threatened,Schedule 1,15545069.51,7821.440000000002,0.05
+983,Pantherophis spiloides,Gray Ratsnake (Great Lakes / St. Lawrence population),Reptiles,Threatened,Schedule 1,366605.11,2449.2099999999996,0.67
+984,Pantherophis spiloides,Gray Ratsnake (Carolinian population),Reptiles,Endangered,Schedule 1,131978.32,1845.3699999999997,1.4
+986,Chordeiles minor,Common Nighthawk,Birds,Threatened,Schedule 1,497805007.49,388720.09000000014,0.08
+987,Cornus florida,Eastern Flowering Dogwood,Vascular Plants,Endangered,Schedule 1,2446553.55,3011.6500000000005,0.12
+991,Phoebastria nigripes,Black–footed Albatross,Birds,Special Concern,Schedule 1,16119927.91,120.09999999999971,0.0
+995,Falco peregrinus anatum/tundrius,Peregrine Falcon anatum/tundrius,Birds,Special Concern,Schedule 1,332142710.22,61569.71999999995,0.02
+997,Copablepharon longipenne,Dusky Dune Moth,Arthropods,Endangered,Schedule 1,37263924.95,18486.83,0.05
+998,Copablepharon grandis,Pale Yellow Dune Moth,Arthropods,Special Concern,Schedule 1,33182717.6,42107.87999999997,0.13
+999,Contopus cooperi,Olive–sided Flycatcher,Birds,Threatened,Schedule 1,555029627.43,355048.87999999913,0.06
+1004,Desmognathus ochrophaeus,Allegheny Mountain Dusky Salamander (Great Lakes / St. Lawrence population),Amphibians,Threatened,Schedule 1,128038.79,1070.13,0.84
+1005,Lechea maritima,Beach Pinweed,Vascular Plants,Special Concern,Schedule 1,118996.41,228.87,0.19
 1006,Gomphus quadricolor,Rapids Clubtail,Arthropods,Endangered,Schedule 1,44053.84,0.0,0.0
 1007,Plagiobothrys figuratus,Fragrant Popcornflower,Vascular Plants,Endangered,Schedule 1,61626.99,0.0,0.0
-1008,Cardellina canadensis,Canada Warbler,Birds,Threatened,Schedule 1,236718355.55,276381.5899999998,0.11675545369426243
+1008,Cardellina canadensis,Canada Warbler,Birds,Threatened,Schedule 1,236718355.55,276381.5899999998,0.12
 1010,Uropappus lindleyi,Lindley's False Silverpuffs,Vascular Plants,Endangered,Schedule 1,10737.86,0.0,0.0
 1011,Centaurium muehlenbergii,Muhlenberg's Centaury,Vascular Plants,Endangered,Schedule 1,14351.78,0.0,0.0
-1013,Patagioenas fasciata,Band tailed Pigeon,Birds,Special Concern,Schedule 1,9675610.47,932.9000000000001,0.009641768887787812
+1013,Patagioenas fasciata,Band tailed Pigeon,Birds,Special Concern,Schedule 1,9675610.47,932.9000000000001,0.01
 1014,Carex tumulicola,Foothill Sedge,Vascular Plants,Endangered,Schedule 1,922.57,0.0,0.0
 1015,Lasthenia glaberrima,Rayless Goldfields,Vascular Plants,Endangered,Schedule 1,1974.13,0.0,0.0
-1019,Pseudacris triseriata,Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population),Amphibians,Threatened,Schedule 1,1504354.2,2420.9299999999994,0.16092819098055494
-1021,Pantherophis gloydi,Eastern Foxsnake (Carolinian population),Reptiles,Endangered,Schedule 1,524709.94,2551.9699999999984,0.48635823441804793
-1022,Pantherophis gloydi,Eastern Foxsnake (Great Lakes / St. Lawrence population),Reptiles,Endangered,Schedule 1,179727.98,5.17,0.0028765693577594317
+1019,Pseudacris triseriata,Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population),Amphibians,Threatened,Schedule 1,1504354.2,2420.9299999999994,0.16
+1021,Pantherophis gloydi,Eastern Foxsnake (Carolinian population),Reptiles,Endangered,Schedule 1,524709.94,2551.9699999999984,0.49
+1022,Pantherophis gloydi,Eastern Foxsnake (Great Lakes / St. Lawrence population),Reptiles,Endangered,Schedule 1,179727.98,5.17,0.0
 1025,Ranunculus californicus,California Buttercup,Vascular Plants,Endangered,Schedule 1,979.86,0.0,0.0
 1027,Lomatium grayi,Gray's Desert–parsley,Vascular Plants,Threatened,Schedule 1,1334.14,0.0,0.0
 1029,Lupinus oreganus,Oregon Lupine,Vascular Plants,Extirpated,Schedule 1,662.34,0.0,0.0
-1031,Cicindela marginipennis,Cobblestone Tiger Beetle,Arthropods,Endangered,Schedule 1,23628.35,174.70999999999998,0.7394083801873597
-1033,Chelydra serpentina,Snapping Turtle,Reptiles,Special Concern,Schedule 1,77746264.38,128628.1199999998,0.1654460455762927
-1034,Ophiogomphus howei,Pygmy Snaketail,Arthropods,Special Concern,Schedule 1,2544283.84,933.3599999999999,0.036684586260627275
+1031,Cicindela marginipennis,Cobblestone Tiger Beetle,Arthropods,Endangered,Schedule 1,23628.35,174.70999999999998,0.74
+1033,Chelydra serpentina,Snapping Turtle,Reptiles,Special Concern,Schedule 1,77746264.38,128628.1199999998,0.17
+1034,Ophiogomphus howei,Pygmy Snaketail,Arthropods,Special Concern,Schedule 1,2544283.84,933.3599999999999,0.04
 1037,Plagiobothrys tenellus,Slender Popcornflower,Vascular Plants,Threatened,Schedule 1,29713.02,0.0,0.0
 1041,Eleocharis geniculata,Bent Spike-rush (Southern Mountain population),Vascular Plants,Endangered,Schedule 1,69140.78,0.0,0.0
 1042,Eleocharis geniculata,Bent Spike-rush (Great Lakes Plains population),Vascular Plants,Endangered,Schedule 1,9123.87,0.0,0.0
-1043,Anarta edwardsii,Edwards' Beach Moth,Arthropods,Endangered,Schedule 1,432959.45,74.58000000000001,0.017225631638251575
-1045,Podiceps auritus,Horned Grebe (Western population),Birds,No Status,No schedule,368940529.24,81932.84999999996,0.022207603531327325
-1046,Podiceps auritus,Horned Grebe (Magdalen Islands population),Birds,Endangered,Schedule 1,1749497.82,4900.139999999999,0.28008837415984883
-1047,Antrostomus vociferus,Eastern Whip–poor–will,Birds,Threatened,Schedule 1,53254681.41,113181.71999999981,0.21252914674041576
+1043,Anarta edwardsii,Edwards' Beach Moth,Arthropods,Endangered,Schedule 1,432959.45,74.58000000000001,0.02
+1045,Podiceps auritus,Horned Grebe (Western population),Birds,No Status,No schedule,368940529.24,81932.84999999995,0.02
+1046,Podiceps auritus,Horned Grebe (Magdalen Islands population),Birds,Endangered,Schedule 1,1749497.82,4900.139999999999,0.28
+1047,Antrostomus vociferus,Eastern Whip–poor–will,Birds,Threatened,Schedule 1,53254681.41,113181.71999999981,0.21
 1057,Sanfilippodytes bertae,Bert's Predaceous Diving Beetle,Arthropods,Endangered,Schedule 1,894.21,0.0,0.0
-1058,Hemileuca sp.,Bogbean Buckmoth,Arthropods,Endangered,Schedule 1,18719633.31,24933.60999999998,0.13319497015297027
-1059,Marah oreganus,Coast Manroot,Vascular Plants,No Status,No schedule,187072.92,11.290000000000001,0.006035079796691044
-1061,Physconia subpallida,Pale–bellied Frost Lichen,Lichens,Endangered,Schedule 1,319842.04,251.20000000000002,0.0785387686996994
-1063,Cicindela patruela,Northern Barrens Tiger Beetle,Arthropods,Endangered,Schedule 1,63215.13,31.46,0.04976656695952378
-1064,Calcarius ornatus,Chestnut–collared Longspur,Birds,Threatened,Schedule 1,27482264.09,29867.609999999986,0.10867958295644187
-1066,Cicindela parowana wallisi,Wallis' Dark Saltflat Tiger Beetle,Arthropods,Endangered,Schedule 1,1264520.82,1573.95,0.12447007396841436
-1067,Erioderma mollissimum,Vole Ears Lichen,Lichens,Endangered,Schedule 1,839071.31,1919.5000000000005,0.22876482333784007
-1080,Stylurus laurae,Laura's Clubtail,Arthropods,No Status,No schedule,1162134.93,1499.75,0.12905127978555814
-1081,Bombus affinis,Rusty–patched Bumble Bee,Arthropods,Endangered,Schedule 1,15596133.51,56388.55999999994,0.3615547402427946
-1082,Gomphus ventricosus,Skillet Clubtail,Arthropods,Endangered,No schedule,52846.03,8.66,0.01638722908797501
-1083,Asclepias quadrifolia,Four-leaved Milkweed,Vascular Plants,No Status,No schedule,168878.09,23.17,0.013719956212200174
+1058,Hemileuca sp.,Bogbean Buckmoth,Arthropods,Endangered,Schedule 1,18719633.31,24933.60999999998,0.13
+1059,Marah oreganus,Coast Manroot,Vascular Plants,No Status,No schedule,187072.92,11.290000000000001,0.01
+1061,Physconia subpallida,Pale–bellied Frost Lichen,Lichens,Endangered,Schedule 1,319842.04,251.20000000000002,0.08
+1063,Cicindela patruela,Northern Barrens Tiger Beetle,Arthropods,Endangered,Schedule 1,63215.13,31.46,0.05
+1064,Calcarius ornatus,Chestnut–collared Longspur,Birds,Threatened,Schedule 1,27482264.09,29867.609999999986,0.11
+1066,Cicindela parowana wallisi,Wallis' Dark Saltflat Tiger Beetle,Arthropods,Endangered,Schedule 1,1264520.82,1573.95,0.12
+1067,Erioderma mollissimum,Vole Ears Lichen,Lichens,Endangered,Schedule 1,839071.31,1919.5000000000005,0.23
+1080,Stylurus laurae,Laura's Clubtail,Arthropods,No Status,No schedule,1162134.93,1499.75,0.13
+1081,Bombus affinis,Rusty–patched Bumble Bee,Arthropods,Endangered,Schedule 1,15596133.51,56388.55999999994,0.36
+1082,Gomphus ventricosus,Skillet Clubtail,Arthropods,Endangered,No schedule,52846.03,8.66,0.02
+1083,Asclepias quadrifolia,Four-leaved Milkweed,Vascular Plants,No Status,No schedule,168878.09,23.17,0.01
 1084,Castilleja victoriae,Victoria's Owl–clover,Vascular Plants,Endangered,Schedule 1,1854.38,0.0,0.0
 1085,Sida hermaphrodita,Virginia Mallow,Vascular Plants,Endangered,Schedule 1,25801.43,0.0,0.0
-1086,Pinus albicaulis,Whitebark Pine,Vascular Plants,Endangered,Schedule 1,24937349.8,78908.99999999999,0.31642897353912075
-1087,Dolichonyx oryzivorus,Bobolink,Birds,No Status,No schedule,127329123.87,153600.86000000036,0.12063293560146003
-1088,Collema coniophilum,Crumpled Tarpaper Lichen,Lichens,Threatened,No schedule,134042.38,100.33,0.07484946178962205
-1089,Nearctula sp.,Threaded Vertigo,Molluscs,Special Concern,Schedule 1,1213325.46,9.21,0.0007590708596850841
+1086,Pinus albicaulis,Whitebark Pine,Vascular Plants,Endangered,Schedule 1,24937349.8,78908.99999999999,0.32
+1087,Dolichonyx oryzivorus,Bobolink,Birds,No Status,No schedule,127329123.87,153600.86000000036,0.12
+1088,Collema coniophilum,Crumpled Tarpaper Lichen,Lichens,Threatened,No schedule,134042.38,100.33,0.07
+1089,Nearctula sp.,Threaded Vertigo,Molluscs,Special Concern,Schedule 1,1213325.46,9.21,0.0
 1113,Solidago speciosa,Showy Goldenrod (Great Lake population),Vascular Plants,Endangered,No schedule,223870.44,0.0,0.0
-1114,Solidago speciosa,Showy Goldenrod (Boreal population),Vascular Plants,Threatened,No schedule,126160.11,119.32999999999998,0.0945861572251324
+1114,Solidago speciosa,Showy Goldenrod (Boreal population),Vascular Plants,Threatened,No schedule,126160.11,119.32999999999998,0.09
 1121,Brotherella roellii,Roell's Brotherella Moss,Mosses,Endangered,No schedule,631374.73,0.0,0.0
-1123,Degelia plumbea,Blue Felt Lichen,Lichens,Special Concern,No schedule,7633480.21,10849.20000000001,0.14212652291660308
-1142,Epeoloides pilosulus,Macropis Cuckoo Bee,Arthropods,Endangered,No schedule,55608112.95,115980.85999999993,0.20856823554556517
+1123,Degelia plumbea,Blue Felt Lichen,Lichens,Special Concern,No schedule,7633480.21,10849.20000000001,0.14
+1142,Epeoloides pilosulus,Macropis Cuckoo Bee,Arthropods,Endangered,No schedule,55608112.95,115980.85999999993,0.21
 1143,Germaria angustata,Dune Tachinid Fly,Arthropods,Special Concern,No schedule,3635848.22,0.0,0.0
-1144,Sturnella magna,Eastern Meadowlark,Birds,Threatened,No schedule,47573609.14,63355.88999999992,0.1331744451289279
-1145,Somatochlora hineana,Hine's Emerald,Arthropods,Endangered,No schedule,5632.09,292.22,5.1884824283702855
+1144,Sturnella magna,Eastern Meadowlark,Birds,Threatened,No schedule,47573609.14,63355.88999999992,0.13
+1145,Somatochlora hineana,Hine's Emerald,Arthropods,Endangered,No schedule,5632.09,292.22,5.19
 1146,Brychius hungerfordi,Hungerford's Crawling Water Beetle,Arthropods,Endangered,No schedule,996.52,0.0,0.0
-1147,Hirundo rustica,Barn Swallow,Birds,Threatened,No schedule,447641417.92,389432.9100000002,0.08699662149439387
-1149,Leptogium polycarpum,Peacock Vinyl Lichen,Lichens,Special Concern,No schedule,2006604.12,416.19999999999993,0.02074151028853663
-1152,Leptogium platynum,Batwing Vinyl Lichen,Lichens,Endangered,No schedule,114147.36,11.290000000000001,0.009890723710123476
-1156,Stylurus olivaceus,Olive Clubtail,Arthropods,Endangered,No schedule,23845.39,23.67,0.09926446998769994
-1160,Gyrinophilus porphyriticus,Spring Salamander (Adirondack / Appalachian population),Amphibians,No Status,No schedule,1254789.36,10986.679999999998,0.8755796271654709
-1161,Gyrinophilus porphyriticus,Spring Salamander (Carolinian population),Amphibians,No Status,No schedule,253140.87,33.83,0.013364100392007026
-1165,Nicrophorus americanus,American Burying Beetle,Arthropods,Extirpated,No schedule,1497023.39,187.76,0.012542222202687161
+1147,Hirundo rustica,Barn Swallow,Birds,Threatened,No schedule,447641417.92,389432.90999999974,0.09
+1149,Leptogium polycarpum,Peacock Vinyl Lichen,Lichens,Special Concern,No schedule,2006604.12,416.19999999999993,0.02
+1152,Leptogium platynum,Batwing Vinyl Lichen,Lichens,Endangered,No schedule,114147.36,11.290000000000001,0.01
+1156,Stylurus olivaceus,Olive Clubtail,Arthropods,Endangered,No schedule,23845.39,23.67,0.1
+1160,Gyrinophilus porphyriticus,Spring Salamander (Adirondack / Appalachian population),Amphibians,No Status,No schedule,1254789.36,10986.679999999998,0.88
+1161,Gyrinophilus porphyriticus,Spring Salamander (Carolinian population),Amphibians,No Status,No schedule,253140.87,33.83,0.01
+1165,Nicrophorus americanus,American Burying Beetle,Arthropods,Extirpated,No schedule,1497023.39,187.76,0.01
 1166,Efferia okanagana,Okanagan Efferia,Arthropods,Endangered,No schedule,10885.27,0.0,0.0
 1169,Ochotona collaris,Collared Pika,Mammals,Special Concern,No schedule,65149725.1,0.0,0.0
 1170,Baccharis halimifolia,Eastern Baccharis,Vascular Plants,Threatened,No schedule,5400.78,0.0,0.0
 1171,Draba yukonensis,Yukon Draba,Vascular Plants,Endangered,No schedule,3479795.2,0.0,0.0
-1176,Gnaphosa snohomish,Georgia Basin Bog Spider,Arthropods,Special Concern,No schedule,50071.3,7.67,0.015318156309103216
+1176,Gnaphosa snohomish,Georgia Basin Bog Spider,Arthropods,Special Concern,No schedule,50071.3,7.67,0.02
 1178,Tryngites subruficollis,Buff–breasted Sandpiper,Birds,Special Concern,No schedule,57688962.34,0.0,0.0
-1180,Magnipelta mycophaga,Magnum Mantleslug,Molluscs,Special Concern,No schedule,4902786.96,57555.98000000002,1.17394413564321
-1189,Desmognathus fuscus,Northern Dusky Salamander (Carolinian population),Amphibians,Endangered,No schedule,7185835.89,26238.49,0.36514179284993387
+1180,Magnipelta mycophaga,Magnum Mantleslug,Molluscs,Special Concern,No schedule,4902786.96,57555.98000000002,1.17
+1189,Desmognathus fuscus,Northern Dusky Salamander (Carolinian population),Amphibians,Endangered,No schedule,7185835.89,26238.49,0.37
 1195,Ursus arctos,Grizzly Bear (Western population),Mammals,Special Concern,No schedule,24799525.63,0.0,0.0
-1197,Hylocichla mustelina,Wood Thrush,Birds,Threatened,No schedule,70263757.56,204071.86000000016,0.29043687255942446
-1198,Contopus virens,Eastern Wood–pewee,Birds,Special Concern,No schedule,119342773.64,275802.4600000003,0.2311010977773688
-1200,Cicindela formosa gibsoni,Gibson's Big Sand Tiger Beetle,Arthropods,Threatened,No schedule,3233663.95,2296.6299999999997,0.07102253157753141
-1207,Hypochlora alba,Greenish–white Grasshopper,Arthropods,Special Concern,No schedule,6742643.09,3704.6299999999983,0.05494329079191998
-1210,Stylurus amnicola,Riverine Clubtail (Great Lakes Plains population),Arthropods,Endangered,No schedule,38630.05,1178.49,3.0507079333316938
-1212,Erynnis martialis,Mottled Duskywing (Great Lakes Plains population),Arthropods,Endangered,No schedule,2512535.46,737.1500000000001,0.0293388894101419
-1213,Erynnis martialis,Mottled Duskywing (Boreal population),Arthropods,Endangered,No schedule,452564.31,70.85000000000001,0.01565523361751615
-1214,Anaxyrus boreas,Western Toad (Non-calling population),Amphibians,Special Concern,No schedule,75067414.21,67623.18000000002,0.09008326810195588
-1215,Anaxyrus boreas,Western Toad (Calling population),Amphibians,Special Concern,No schedule,59850810.64,31616.400000000005,0.05282534966848029
-1220,Sistrurus catenatus,Massasauga (Great Lakes population),Reptiles,Threatened,No schedule,3364681.47,13401.869999999997,0.3983102150825587
-1221,Sistrurus catenatus,Massasauga (Carolinian population),Reptiles,Endangered,No schedule,1564799.19,590.7700000000001,0.03775372608673194
-1223,Ambystoma mavortium,Western Tiger Salamander (Southern Mountain population),Amphibians,Endangered,No schedule,541427.36,1275.3100000000002,0.2355459096119561
-1224,Ambystoma mavortium,Western Tiger Salamander (Prairie / Boreal population),Amphibians,Special Concern,No schedule,58389854.23,43270.329999999914,0.0741059051621474
+1197,Hylocichla mustelina,Wood Thrush,Birds,Threatened,No schedule,70263757.56,204071.86000000016,0.29
+1198,Contopus virens,Eastern Wood–pewee,Birds,Special Concern,No schedule,119342773.64,275802.4600000003,0.23
+1200,Cicindela formosa gibsoni,Gibson's Big Sand Tiger Beetle,Arthropods,Threatened,No schedule,3233663.95,2296.6299999999997,0.07
+1207,Hypochlora alba,Greenish–white Grasshopper,Arthropods,Special Concern,No schedule,6742643.09,3704.6299999999983,0.05
+1210,Stylurus amnicola,Riverine Clubtail (Great Lakes Plains population),Arthropods,Endangered,No schedule,38630.05,1178.49,3.05
+1212,Erynnis martialis,Mottled Duskywing (Great Lakes Plains population),Arthropods,Endangered,No schedule,2512535.46,737.1500000000001,0.03
+1213,Erynnis martialis,Mottled Duskywing (Boreal population),Arthropods,Endangered,No schedule,452564.31,70.85000000000001,0.02
+1214,Anaxyrus boreas,Western Toad (Non-calling population),Amphibians,Special Concern,No schedule,75067414.21,67623.18000000002,0.09
+1215,Anaxyrus boreas,Western Toad (Calling population),Amphibians,Special Concern,No schedule,59850810.64,31616.400000000005,0.05
+1220,Sistrurus catenatus,Massasauga (Great Lakes population),Reptiles,Threatened,No schedule,3364681.47,13401.869999999997,0.4
+1221,Sistrurus catenatus,Massasauga (Carolinian population),Reptiles,Endangered,No schedule,1564799.19,590.7700000000001,0.04
+1223,Ambystoma mavortium,Western Tiger Salamander (Southern Mountain population),Amphibians,Endangered,No schedule,541427.36,1275.3100000000002,0.24
+1224,Ambystoma mavortium,Western Tiger Salamander (Prairie / Boreal population),Amphibians,Special Concern,No schedule,58389854.23,43270.329999999914,0.07
 1227,Ambystoma tigrinum,Eastern Tiger Salamander (Carolinian population),Amphibians,Extirpated,No schedule,355.05,0.0,0.0
-1229,Taxidea taxus jeffersonii,American Badger jeffersonii subspecies (Western population),Mammals,Endangered,No schedule,15635973.06,65132.28000000006,0.416554056150312
-1230,Taxidea taxus jeffersonii,American Badger jeffersonii subspecies (Eastern population),Mammals,Endangered,No schedule,1141405.44,2651.1900000000005,0.23227416894035488
-1231,Ambystoma tigrinum,Eastern Tiger Salamander (Prairie population),Amphibians,Endangered,No schedule,103371.22,8202.29,7.934790747366629
-1232,Bombus bohemicus,Gypsy Cuckoo Bumble Bee,Arthropods,Endangered,No schedule,699479770.97,394689.639999999,0.056426169330481876
-1233,Riparia riparia,Bank Swallow,Birds,Threatened,No schedule,700856424.99,395265.9000000005,0.05639755674718117
+1229,Taxidea taxus jeffersonii,American Badger jeffersonii subspecies (Western population),Mammals,Endangered,No schedule,15635973.06,65132.28000000006,0.42
+1230,Taxidea taxus jeffersonii,American Badger jeffersonii subspecies (Eastern population),Mammals,Endangered,No schedule,1141405.44,2651.1900000000005,0.23
+1231,Ambystoma tigrinum,Eastern Tiger Salamander (Prairie population),Amphibians,Endangered,No schedule,103371.22,8202.29,7.93
+1232,Bombus bohemicus,Gypsy Cuckoo Bumble Bee,Arthropods,Endangered,No schedule,699479770.97,394689.64000000036,0.06
+1233,Riparia riparia,Bank Swallow,Birds,Threatened,No schedule,700856424.99,395265.9000000003,0.06
 1234,Staala gwaii,Haida Gwaii Slug,Molluscs,Special Concern,No schedule,431524.87,0.0,0.0
 1235,Braya pilosa,Hairy Braya,Vascular Plants,Endangered,No schedule,19998.52,0.0,0.0
-1237,Lathyrus littoralis,Silky Beach Pea,Vascular Plants,Threatened,No schedule,712988.94,464.49999999999994,0.06514827565207393
+1237,Lathyrus littoralis,Silky Beach Pea,Vascular Plants,Threatened,No schedule,712988.94,464.49999999999994,0.07
 1238,Micranthes spicata,Spiked Saxifrage,Vascular Plants,Special Concern,No schedule,857636.53,0.0,0.0
-1240,Grammia complicata,Island Tiger Moth,Arthropods,Threatened,No schedule,347013.56,75.55000000000001,0.02177148351205642
-1241,Ammodramus savannarum pratensis,"Grasshopper Sparrow, pratensis subspecies",Birds,Special Concern,No schedule,57883850.13,110001.82999999997,0.1900388964330282
+1240,Grammia complicata,Island Tiger Moth,Arthropods,Threatened,No schedule,347013.56,75.55000000000001,0.02
+1241,Ammodramus savannarum pratensis,"Grasshopper Sparrow, pratensis subspecies",Birds,Special Concern,No schedule,57883850.13,110001.82999999997,0.19
 1242,Lewisiopsis tweedyi,Tweedy's Lewisia,Vascular Plants,Endangered,No schedule,1375.35,0.0,0.0
 1243,Omus audouini,Audouin’s Night–stalking Tiger Beetle,Arthropods,Threatened,No schedule,14998.34,0.0,0.0
-1245,Peltigera hydrothyria,Eastern Waterfan,Lichens,Threatened,No schedule,1759559.81,1571.9700000000014,0.08933882162266489
-1246,Peltigera gowardii,Western Waterfan,Lichens,Special Concern,No schedule,16774561.49,2292.1700000000005,0.013664559883526354
-1250,Hesperia colorado oregonia,Oregon Branded Skipper,Arthropods,Endangered,No schedule,59363.91,74.58000000000001,0.12563188644413753
-1253,Aechmophorus occidentalis,Western Grebe,Birds,Special Concern,No schedule,86923248.01,63838.500000000044,0.07344237757044675
+1245,Peltigera hydrothyria,Eastern Waterfan,Lichens,Threatened,No schedule,1759559.81,1571.9700000000014,0.09
+1246,Peltigera gowardii,Western Waterfan,Lichens,Special Concern,No schedule,16774561.49,2292.1700000000005,0.01
+1250,Hesperia colorado oregonia,Oregon Branded Skipper,Arthropods,Endangered,No schedule,59363.91,74.58000000000001,0.13
+1253,Aechmophorus occidentalis,Western Grebe,Birds,Special Concern,No schedule,86923248.01,63838.500000000044,0.07
 1256,Bombus occidentalis mckayi,Western Bumble Bee mckayi subspecies,Arthropods,Special Concern,No schedule,67064442.56,0.0,0.0
 1257,Symphyotrichum nahanniense,Nahanni Aster,Vascular Plants,Special Concern,No schedule,380143.9,0.0,0.0
-1260,Aneides vagrans,Wandering Salamander,Amphibians,Special Concern,No schedule,3016424.63,416.19999999999993,0.013797792123186582
-1265,Lanius ludovicianus ssp.,Loggerhead Shrike Eastern subspecies,Birds,Endangered,No schedule,5246315.38,18407.399999999987,0.35086339014563755
+1260,Aneides vagrans,Wandering Salamander,Amphibians,Special Concern,No schedule,3016424.63,416.19999999999993,0.01
+1265,Lanius ludovicianus ssp.,Loggerhead Shrike Eastern subspecies,Birds,Endangered,No schedule,5246315.38,18407.399999999987,0.35
 1266,Rangifer tarandus,Caribou (Central Mountain population),Mammals,Endangered,No schedule,5192322.27,0.0,0.0
-1267,Bombus occidentalis occidentalis,Western Bumble Bee occidentalis subspecies,Arthropods,Threatened,No schedule,79152086.83,102527.33999999988,0.12953207439774067
+1267,Bombus occidentalis occidentalis,Western Bumble Bee occidentalis subspecies,Arthropods,Threatened,No schedule,79152086.83,102527.33999999988,0.13
 1268,Podistera yukonensis,Yukon Podistera,Vascular Plants,Special Concern,No schedule,5320126.22,0.0,0.0
-1269,Allogona profunda,Broad–banded Forestsnail,Molluscs,Endangered,No schedule,5828.33,60.709999999999994,1.041636283463702
-1270,Ptychoramphus aleuticus,Cassin's Auklet,Birds,Special Concern,No schedule,2120384.21,76.33,0.003599819298786421
-1271,Arnica griscomii ssp. griscomii,Griscom’s Arnica,Vascular Plants,Threatened,No schedule,1181937.28,256.46,0.02169827488646436
-1274,Crossidium seriatum,Tiny Tassel,Mosses,Special Concern,No schedule,1909656.92,8333.52,0.4363883330415183
-1275,Pinus flexilis,Limber Pine,Vascular Plants,Endangered,No schedule,782910.12,4175.63,0.5333473017311362
+1269,Allogona profunda,Broad–banded Forestsnail,Molluscs,Endangered,No schedule,5828.33,60.709999999999994,1.04
+1270,Ptychoramphus aleuticus,Cassin's Auklet,Birds,Special Concern,No schedule,2120384.21,76.33,0.0
+1271,Arnica griscomii ssp. griscomii,Griscom’s Arnica,Vascular Plants,Threatened,No schedule,1181937.28,256.46,0.02
+1274,Crossidium seriatum,Tiny Tassel,Mosses,Special Concern,No schedule,1909656.92,8333.52,0.44
+1275,Pinus flexilis,Limber Pine,Vascular Plants,Endangered,No schedule,782910.12,4175.63,0.53
 1276,Rhynchospora macrostachya,Tall Beakrush,Vascular Plants,Endangered,No schedule,7397.98,0.0,0.0
 1277,Vernonia fasciculata,Fascicled Ironweed,Vascular Plants,Endangered,No schedule,2973.81,0.0,0.0
 1278,Phalaropus lobatus,Red–necked Phalarope,Birds,Special Concern,No schedule,482603372.92,0.0,0.0

@@ -93,7 +93,7 @@ with arcpy.da.UpdateCursor(hab_dis, [cosewic, "NCC_FS_HA"]) as cursor:
 arcpy.management.AddField(hab_dis,"PCT_NCC","DOUBLE")
 with arcpy.da.UpdateCursor(hab_dis, ["PCT_NCC", "NCC_FS_HA", "RANGE_HA"]) as cursor:
     for row in cursor:
-      row[0] = (row[1] / row[2]) * 100
+      row[0] = round((row[1] / row[2]) * 100, 2)
       cursor.updateRow(row)
         
 # Export table
