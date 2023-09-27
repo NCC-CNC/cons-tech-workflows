@@ -20,7 +20,6 @@ library(lubridate)
 # Read-in ECCC SAR NCC csv
 sar_csv <- read.csv("Output/NCC_ECCC_SAR.csv", encoding = "UTF-8")
 sar_csv$FIRST_NCC_DATE <- as.Date(sar_csv$FIRST_NCC_DATE, format = "%Y-%m-%d")
-sar_csv$AREA_HA <- round(sar_csv$AREA_HA, digits = 0)
 prp_csv <- read.csv("Output/NCC_ECCC_SAR_DIS_PRP_ID.csv", encoding = "UTF-8")
 
 # Join csv

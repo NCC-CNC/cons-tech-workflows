@@ -40,6 +40,13 @@ arcpy.conversion.ExportTable(i, "Output/NCC_ECCC_SAR.csv")
 print("dissolving ...")
 d = arcpy.management.Dissolve(i, "MyProject.gdb/ncc_eccc_sar_dis_prp_id", "Property_ID")
 
+# Add Area HA field
+arcpy.management.AddField(d,"SAR_HA","DOUBLE")
+with arcpy.da.UpdateCursor(d, ["SAR_HA", "SHAPE@AREA"]) as cursor:
+    for row in cursor:
+      row[0] = (row[1] / 10000)
+      cursor.updateRow(row)
+
 # Export attribute table as csv
 print("exporting ...")
 arcpy.conversion.ExportTable(d, "Output/NCC_ECCC_SAR_DIS_PRP_ID.csv")
