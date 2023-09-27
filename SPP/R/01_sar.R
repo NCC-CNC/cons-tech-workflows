@@ -18,9 +18,9 @@ library(dplyr)
 library(lubridate)
 
 # Read-in ECCC SAR NCC csv
-sar_csv <- read.csv("Output/NCC_ECCC_SAR.csv", encoding = "UTF-8")
+sar_csv <- read.csv("SPP/Output/NCC_ECCC_SAR.csv", encoding = "UTF-8")
 sar_csv$FIRST_NCC_DATE <- as.Date(sar_csv$FIRST_NCC_DATE, format = "%Y-%m-%d")
-prp_csv <- read.csv("Output/NCC_ECCC_SAR_DIS_PRP_ID.csv", encoding = "UTF-8")
+prp_csv <- read.csv("SP/Output/NCC_ECCC_SAR_DIS_PRP_ID.csv", encoding = "UTF-8")
 
 # Join csv
 sar_df <- left_join(sar_csv, prp_csv, by = "Property_ID")
@@ -227,7 +227,7 @@ ncc_5yr_sar_nat <- rbind(
   ncc_nat_sar_lte2021,
   ncc_nat_sar_lte2022
   )
-write.csv(ncc_5yr_sar_nat, "Output/NCC_5YR_SAR_NAT.csv")
+write.csv(ncc_5yr_sar_nat, "SPP/Output/NCC_5YR_SAR_NAT.csv")
 
 ## REG
 ncc_5yr_sar_by_region <- rbind(
@@ -238,4 +238,4 @@ ncc_5yr_sar_by_region <- rbind(
   ncc_region_sar_lte2022
   ) %>%
   arrange(Region)
-write.csv(ncc_5yr_sar_by_region, "Output/NCC_5YR_SAR_REG.csv")
+write.csv(ncc_5yr_sar_by_region, "SPP/Output/NCC_5YR_SAR_REG.csv")
