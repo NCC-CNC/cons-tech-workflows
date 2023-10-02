@@ -61,36 +61,37 @@ get_reg_tbl <- function(yyyymmdd, regional_ha_tbl) {
     mutate("SAR_HA" = regional_ha_tbl$SAR_HA)
 }
 
-
-# 2018 ---
+# Build tables ----
+## 2018 ---
 ha_lte2018 <- get_reg_ha_tbl("2018-12-31") 
 nat_lte2018 <- get_nat_tbl("2018-12-31", ha_lte2018) 
 reg_lte2018 <- get_reg_tbl("2018-12-31", ha_lte2018)
 
-# 2019 ---
+## 2019 ---
 ha_lte2019 <- get_reg_ha_tbl("2019-12-31") 
 nat_lte2019 <- get_nat_tbl("2019-12-31", ha_lte2019) 
 reg_lte2019 <- get_reg_tbl("2019-12-31", ha_lte2019)
 
-# 2020 ---
+## 2020 ---
 ha_lte2020 <- get_reg_ha_tbl("2020-12-31") 
 nat_lte2020 <- get_nat_tbl("2020-12-31", ha_lte2020) 
 reg_lte2020 <- get_reg_tbl("2020-12-31", ha_lte2020)
 
-# 2021 ---
+## 2021 ---
 ha_lte2021 <- get_reg_ha_tbl("2021-12-31") 
 nat_lte2021 <- get_nat_tbl("2021-12-31", ha_lte2021) 
 reg_lte2021 <- get_reg_tbl("2021-12-31", ha_lte2021)
 
-# 2022 ---
+## 2022 ---
 ha_lte2022 <- get_reg_ha_tbl("2022-12-31") 
 nat_lte2022 <- get_nat_tbl("2022-12-31", ha_lte2022) 
 reg_lte2022 <- get_reg_tbl("2022-12-31", ha_lte2022)
 
-# 2023 ---
+## 2023 ---
 ha_lte2023 <- get_reg_ha_tbl("2023-12-31") 
 nat_lte2023 <- get_nat_tbl("2023-12-31", ha_lte2023) 
 reg_lte2023 <- get_reg_tbl("2023-12-31", ha_lte2023)
+
 # Merge tables ----
 ## NAT
 ncc_5yr_sar_nat <- rbind(
